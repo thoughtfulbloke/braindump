@@ -1,0 +1,2951 @@
+"name","Year","stTot"
+"World",2013,7495.86334733
+"World",2014,7377.91489454
+"World",2015,7303.4405112
+"World",2016,7186.11245026
+"World",2017,7117.17298251
+"World",2018,6983.08176746
+"World",2019,6887.11006456
+"World",2020,7324.44016549
+"World",2021,7897.98705545
+"World",2022,6920.32864079
+"Sub-Saharan Africa",2013,14374.98580405
+"Sub-Saharan Africa",2014,14262.21038013
+"Sub-Saharan Africa",2015,14015.62929457
+"Sub-Saharan Africa",2016,13796.60811373
+"Sub-Saharan Africa",2017,13621.28938585
+"Sub-Saharan Africa",2018,13236.66455823
+"Sub-Saharan Africa",2019,13079.05954894
+"Sub-Saharan Africa",2020,13372.10313796
+"Sub-Saharan Africa",2021,13885.23679878
+"Sub-Saharan Africa",2022,12861.18692303
+"Northern Africa and Western Asia",2013,8035.60516021
+"Northern Africa and Western Asia",2014,7877.53822086
+"Northern Africa and Western Asia",2015,7826.05125076
+"Northern Africa and Western Asia",2016,7722.13209131
+"Northern Africa and Western Asia",2017,7544.65217757
+"Northern Africa and Western Asia",2018,7384.49592691
+"Northern Africa and Western Asia",2019,7236.7002117
+"Northern Africa and Western Asia",2020,8294.76460363
+"Northern Africa and Western Asia",2021,8621.41396688
+"Northern Africa and Western Asia",2022,7243.18089624
+"Central and Southern Asia",2013,9304.84861816
+"Central and Southern Asia",2014,9115.70846261
+"Central and Southern Asia",2015,8947.49458033
+"Central and Southern Asia",2016,8772.97401205
+"Central and Southern Asia",2017,8621.85513004
+"Central and Southern Asia",2018,8477.97310897
+"Central and Southern Asia",2019,8340.44571735
+"Central and Southern Asia",2020,9134.11200932
+"Central and Southern Asia",2021,10869.94495402
+"Central and Southern Asia",2022,7947.12926618
+"Eastern and South-Eastern Asia",2013,6045.59243367
+"Eastern and South-Eastern Asia",2014,5940.56817903
+"Eastern and South-Eastern Asia",2015,5846.00249336
+"Eastern and South-Eastern Asia",2016,5759.24263252
+"Eastern and South-Eastern Asia",2017,5735.60471552
+"Eastern and South-Eastern Asia",2018,5594.92874069
+"Eastern and South-Eastern Asia",2019,5519.15414301
+"Eastern and South-Eastern Asia",2020,5570.3951287
+"Eastern and South-Eastern Asia",2021,5793.77619309
+"Eastern and South-Eastern Asia",2022,5536.79572465
+"Latin America and the Caribbean",2013,12900.8696538
+"Latin America and the Caribbean",2014,12727.13276284
+"Latin America and the Caribbean",2015,12560.67680264
+"Latin America and the Caribbean",2016,12642.049714
+"Latin America and the Caribbean",2017,12499.2438226
+"Latin America and the Caribbean",2018,12298.42872294
+"Latin America and the Caribbean",2019,12195.5690707
+"Latin America and the Caribbean",2020,14387.9703082
+"Latin America and the Caribbean",2021,15951.9983352
+"Latin America and the Caribbean",2022,12919.363751
+"Oceania (excluding Australia and New Zealand)",2013,11352.61091403
+"Oceania (excluding Australia and New Zealand)",2014,11234.03571006
+"Oceania (excluding Australia and New Zealand)",2015,11121.17388621
+"Oceania (excluding Australia and New Zealand)",2016,11002.61099407
+"Oceania (excluding Australia and New Zealand)",2017,10872.77208474
+"Oceania (excluding Australia and New Zealand)",2018,10793.20630076
+"Oceania (excluding Australia and New Zealand)",2019,10707.78491279
+"Oceania (excluding Australia and New Zealand)",2020,11200.70548425
+"Oceania (excluding Australia and New Zealand)",2021,11788.52981558
+"Oceania (excluding Australia and New Zealand)",2022,10793.15281786
+"Australia/New Zealand",2013,6935.85942024
+"Australia/New Zealand",2014,6986.40202514
+"Australia/New Zealand",2015,6919.99492164
+"Australia/New Zealand",2016,6760.26217316
+"Australia/New Zealand",2017,6847.98332484
+"Australia/New Zealand",2018,6510.00418468
+"Australia/New Zealand",2019,6515.8173252
+"Australia/New Zealand",2020,6201.88966712
+"Australia/New Zealand",2021,6287.23343256
+"Australia/New Zealand",2022,6982.11684922
+"Europe and Northern America",2013,5171.55169844
+"Europe and Northern America",2014,5075.20203459
+"Europe and Northern America",2015,5079.85832422
+"Europe and Northern America",2016,4957.63986051
+"Europe and Northern America",2017,4888.08425602
+"Europe and Northern America",2018,4853.28806001
+"Europe and Northern America",2019,4763.87972744
+"Europe and Northern America",2020,5356.7338864
+"Europe and Northern America",2021,5602.80685219
+"Europe and Northern America",2022,5041.42091804
+"Europe, Northern America, Australia, and New Zealand",2013,5132.7839833
+"Europe, Northern America, Australia, and New Zealand",2014,5038.84156151
+"Europe, Northern America, Australia, and New Zealand",2015,5042.29178268
+"Europe, Northern America, Australia, and New Zealand",2016,4920.6595496
+"Europe, Northern America, Australia, and New Zealand",2017,4853.42598292
+"Europe, Northern America, Australia, and New Zealand",2018,4815.06176284
+"Europe, Northern America, Australia, and New Zealand",2019,4727.53387239
+"Europe, Northern America, Australia, and New Zealand",2020,5301.66408805
+"Europe, Northern America, Australia, and New Zealand",2021,5541.8508662
+"Europe, Northern America, Australia, and New Zealand",2022,5001.24890698
+"More developed regions",2013,4879.58537769
+"More developed regions",2014,4789.25621229
+"More developed regions",2015,4780.75260545
+"More developed regions",2016,4670.70367872
+"More developed regions",2017,4606.55489561
+"More developed regions",2018,4570.23502851
+"More developed regions",2019,4491.74757079
+"More developed regions",2020,4975.68967998
+"More developed regions",2021,5199.40929974
+"More developed regions",2022,4753.57903111
+"Less developed regions",2013,8404.13315364
+"Less developed regions",2014,8277.18443641
+"Less developed regions",2015,8154.69421635
+"Less developed regions",2016,8041.519075
+"Less developed regions",2017,7958.80119224
+"Less developed regions",2018,7780.24387254
+"Less developed regions",2019,7678.50296708
+"Less developed regions",2020,8107.99452003
+"Less developed regions",2021,8844.72723488
+"Less developed regions",2022,7615.82012036
+"Least developed countries",2013,12266.63224222
+"Least developed countries",2014,12154.13862288
+"Least developed countries",2015,11949.35957125
+"Least developed countries",2016,11723.05908299
+"Least developed countries",2017,11547.30229956
+"Least developed countries",2018,11184.74981361
+"Least developed countries",2019,11013.03049812
+"Least developed countries",2020,11411.79346331
+"Least developed countries",2021,11803.68192758
+"Least developed countries",2022,10659.97713906
+"Less developed regions, excluding least developed countries",2013,7872.07369003
+"Less developed regions, excluding least developed countries",2014,7735.79496934
+"Less developed regions, excluding least developed countries",2015,7619.53510303
+"Less developed regions, excluding least developed countries",2016,7516.59466162
+"Less developed regions, excluding least developed countries",2017,7436.7091357
+"Less developed regions, excluding least developed countries",2018,7287.08523914
+"Less developed regions, excluding least developed countries",2019,7187.56343241
+"Less developed regions, excluding least developed countries",2020,7631.69454645
+"Less developed regions, excluding least developed countries",2021,8387.86989834
+"Less developed regions, excluding least developed countries",2022,7131.54658694
+"Less developed regions, excluding China",2013,9373.63190763
+"Less developed regions, excluding China",2014,9233.38167376
+"Less developed regions, excluding China",2015,9095.57184695
+"Less developed regions, excluding China",2016,8975.09579931
+"Less developed regions, excluding China",2017,8842.52411345
+"Less developed regions, excluding China",2018,8679.98450807
+"Less developed regions, excluding China",2019,8569.33328301
+"Less developed regions, excluding China",2020,9266.04692362
+"Less developed regions, excluding China",2021,10373.93052534
+"Less developed regions, excluding China",2022,8473.02491297
+"Land-locked Developing Countries (LLDC)",2013,12108.28178411
+"Land-locked Developing Countries (LLDC)",2014,12118.59869416
+"Land-locked Developing Countries (LLDC)",2015,11929.29748357
+"Land-locked Developing Countries (LLDC)",2016,11734.00802467
+"Land-locked Developing Countries (LLDC)",2017,11575.03178065
+"Land-locked Developing Countries (LLDC)",2018,11091.816405
+"Land-locked Developing Countries (LLDC)",2019,11032.94143383
+"Land-locked Developing Countries (LLDC)",2020,11663.88244892
+"Land-locked Developing Countries (LLDC)",2021,12253.47161724
+"Land-locked Developing Countries (LLDC)",2022,10835.86196851
+"LLDC: Africa",2013,13730.62758598
+"LLDC: Africa",2014,13839.287979
+"LLDC: Africa",2015,13551.9745829
+"LLDC: Africa",2016,13366.54502545
+"LLDC: Africa",2017,13153.18918794
+"LLDC: Africa",2018,12396.15891441
+"LLDC: Africa",2019,12361.40574656
+"LLDC: Africa",2020,12270.15681041
+"LLDC: Africa",2021,12854.40643656
+"LLDC: Africa",2022,12222.79855918
+"LLDC: Asia",2013,10106.72471046
+"LLDC: Asia",2014,9950.53083343
+"LLDC: Asia",2015,9868.4835228
+"LLDC: Asia",2016,9624.74649715
+"LLDC: Asia",2017,9513.88073738
+"LLDC: Asia",2018,9400.30877667
+"LLDC: Asia",2019,9266.85522073
+"LLDC: Asia",2020,10499.72079448
+"LLDC: Asia",2021,10838.47623504
+"LLDC: Asia",2022,8800.23128822
+"LLDC: Europe",2013,8268.38357877
+"LLDC: Europe",2014,8284.83987057
+"LLDC: Europe",2015,8345.49413716
+"LLDC: Europe",2016,8270.05197905
+"LLDC: Europe",2017,8100.56007199
+"LLDC: Europe",2018,7989.05311011
+"LLDC: Europe",2019,8039.983933
+"LLDC: Europe",2020,8841.37225161
+"LLDC: Europe",2021,9752.47294634
+"LLDC: Europe",2022,7709.41874138
+"LLDC: Latin America",2013,8932.50323351
+"LLDC: Latin America",2014,8860.25553337
+"LLDC: Latin America",2015,8789.90382406
+"LLDC: Latin America",2016,8737.59255084
+"LLDC: Latin America",2017,8715.51582103
+"LLDC: Latin America",2018,8637.12656495
+"LLDC: Latin America",2019,8602.27736409
+"LLDC: Latin America",2020,11674.67984881
+"LLDC: Latin America",2021,13909.38865223
+"LLDC: Latin America",2022,9176.22038923
+"Small Island Developing States (SIDS)",2013,7379.56848104
+"Small Island Developing States (SIDS)",2014,7363.78514981
+"Small Island Developing States (SIDS)",2015,7320.53046571
+"Small Island Developing States (SIDS)",2016,7335.48613958
+"Small Island Developing States (SIDS)",2017,7320.67186395
+"Small Island Developing States (SIDS)",2018,7204.51367518
+"Small Island Developing States (SIDS)",2019,7187.03921921
+"Small Island Developing States (SIDS)",2020,7396.06122943
+"Small Island Developing States (SIDS)",2021,8545.20645574
+"Small Island Developing States (SIDS)",2022,7209.76136624
+"SIDS Caribbean",2013,7025.05560672
+"SIDS Caribbean",2014,7041.14957685
+"SIDS Caribbean",2015,7021.62288322
+"SIDS Caribbean",2016,7084.78681172
+"SIDS Caribbean",2017,7099.25279439
+"SIDS Caribbean",2018,6970.1128468
+"SIDS Caribbean",2019,6985.01187118
+"SIDS Caribbean",2020,7210.20318199
+"SIDS Caribbean",2021,8614.77299562
+"SIDS Caribbean",2022,6984.4304739
+"SIDS Pacific",2013,11399.31425109
+"SIDS Pacific",2014,11279.44598527
+"SIDS Pacific",2015,11165.46152914
+"SIDS Pacific",2016,11047.55098855
+"SIDS Pacific",2017,10919.35637724
+"SIDS Pacific",2018,10836.1456408
+"SIDS Pacific",2019,10748.87621461
+"SIDS Pacific",2020,11182.41866868
+"SIDS Pacific",2021,11784.39854408
+"SIDS Pacific",2022,10797.1373244
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2013,6299.89551266
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2014,6163.65416813
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2015,6052.52921708
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2016,5933.70275436
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2017,5803.02522396
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2018,5716.12562511
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2019,5605.30413359
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2020,5664.23253996
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2021,5884.6702074
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",2022,5685.24112871
+"High-and-upper-middle-income countries",2013,5658.22307554
+"High-and-upper-middle-income countries",2014,5553.59104429
+"High-and-upper-middle-income countries",2015,5504.30550359
+"High-and-upper-middle-income countries",2016,5418.35508512
+"High-and-upper-middle-income countries",2017,5374.47532173
+"High-and-upper-middle-income countries",2018,5261.26247923
+"High-and-upper-middle-income countries",2019,5178.34900192
+"High-and-upper-middle-income countries",2020,5584.08634103
+"High-and-upper-middle-income countries",2021,5828.97613167
+"High-and-upper-middle-income countries",2022,5328.05235327
+"Low-and-Lower-middle-income countries",2013,10430.16474687
+"Low-and-Lower-middle-income countries",2014,10277.56863212
+"Low-and-Lower-middle-income countries",2015,10113.78027295
+"Low-and-Lower-middle-income countries",2016,9939.2403631
+"Low-and-Lower-middle-income countries",2017,9791.94240469
+"Low-and-Lower-middle-income countries",2018,9632.17980808
+"Low-and-Lower-middle-income countries",2019,9500.92426834
+"Low-and-Lower-middle-income countries",2020,10113.51974823
+"Low-and-Lower-middle-income countries",2021,11456.3036643
+"Low-and-Lower-middle-income countries",2022,9206.75807155
+"High-income countries",2013,4170.28294915
+"High-income countries",2014,4085.90103369
+"High-income countries",2015,4118.92641653
+"High-income countries",2016,4044.57464743
+"High-income countries",2017,4035.05823631
+"High-income countries",2018,3988.23388766
+"High-income countries",2019,3914.55875832
+"High-income countries",2020,4264.73954245
+"High-income countries",2021,4342.73135918
+"High-income countries",2022,4175.26565065
+"Low-and-middle-income countries",2013,8594.23039046
+"Low-and-middle-income countries",2014,8462.92303641
+"Low-and-middle-income countries",2015,8328.65921868
+"Low-and-middle-income countries",2016,8199.88737653
+"Low-and-middle-income countries",2017,8098.13766287
+"Low-and-middle-income countries",2018,7929.4301549
+"Low-and-middle-income countries",2019,7821.67004462
+"Low-and-middle-income countries",2020,8316.18886429
+"Low-and-middle-income countries",2021,9111.29976344
+"Low-and-middle-income countries",2022,7753.9752911
+"Middle-income countries",2013,8234.81370877
+"Middle-income countries",2014,8089.9259407
+"Middle-income countries",2015,7953.54827146
+"Middle-income countries",2016,7828.42980988
+"Middle-income countries",2017,7721.18189242
+"Middle-income countries",2018,7578.62466038
+"Middle-income countries",2019,7470.79986388
+"Middle-income countries",2020,7986.7095505
+"Middle-income countries",2021,8794.51948449
+"Middle-income countries",2022,7390.49204937
+"Upper-middle-income countries",2013,6687.61803878
+"Upper-middle-income countries",2014,6571.59038595
+"Upper-middle-income countries",2015,6451.05835187
+"Upper-middle-income countries",2016,6363.46352443
+"Upper-middle-income countries",2017,6290.01419351
+"Upper-middle-income countries",2018,6125.04540216
+"Upper-middle-income countries",2019,6033.5054103
+"Upper-middle-income countries",2020,6479.57799576
+"Upper-middle-income countries",2021,6873.58389955
+"Upper-middle-income countries",2022,6109.39329697
+"Lower-middle-income countries",2013,10005.43471576
+"Lower-middle-income countries",2014,9827.11417369
+"Lower-middle-income countries",2015,9658.25066842
+"Lower-middle-income countries",2016,9487.37086904
+"Lower-middle-income countries",2017,9329.39041987
+"Lower-middle-income countries",2018,9219.389516
+"Lower-middle-income countries",2019,9089.13663691
+"Lower-middle-income countries",2020,9754.82444241
+"Lower-middle-income countries",2021,11211.06947127
+"Lower-middle-income countries",2022,8758.57119157
+"Low-income countries",2013,12907.85010309
+"Low-income countries",2014,12889.88075441
+"Low-income countries",2015,12752.19753458
+"Low-income countries",2016,12545.26792855
+"Low-income countries",2017,12433.3305731
+"Low-income countries",2018,11990.93245297
+"Low-income countries",2019,11827.3873996
+"Low-income countries",2020,12066.34450105
+"Low-income countries",2021,12430.66850386
+"Low-income countries",2022,11678.02434492
+"No income group available",2013,7224.01424092
+"No income group available",2014,7319.9485663
+"No income group available",2015,7239.07672564
+"No income group available",2016,7680.54560274
+"No income group available",2017,7740.91704197
+"No income group available",2018,7410.40140086
+"No income group available",2019,7361.80235991
+"No income group available",2020,7638.7699482
+"No income group available",2021,8181.54318079
+"No income group available",2022,7438.14349219
+"Africa",2013,13256.1085432
+"Africa",2014,13136.09196417
+"Africa",2015,12913.73289615
+"Africa",2016,12714.05655281
+"Africa",2017,12542.52014466
+"Africa",2018,12215.21956238
+"Africa",2019,12069.04205426
+"Africa",2020,12645.30317534
+"Africa",2021,13116.43720164
+"Africa",2022,11910.60828477
+"Eastern Africa",2013,12906.24562489
+"Eastern Africa",2014,12835.00240853
+"Eastern Africa",2015,12667.48344172
+"Eastern Africa",2016,12488.00763766
+"Eastern Africa",2017,12304.52714614
+"Eastern Africa",2018,11714.96019818
+"Eastern Africa",2019,11400.57350192
+"Eastern Africa",2020,11620.11278999
+"Eastern Africa",2021,12158.41114489
+"Eastern Africa",2022,11039.00554112
+"Burundi",2013,14123.24842155
+"Burundi",2014,13821.36781214
+"Burundi",2015,13665.27002037
+"Burundi",2016,13303.50091292
+"Burundi",2017,13004.61047079
+"Burundi",2018,12767.02012203
+"Burundi",2019,12605.56860366
+"Burundi",2020,12584.54949094
+"Burundi",2021,12994.1235372
+"Burundi",2022,12421.08245545
+"Comoros",2013,12455.73361544
+"Comoros",2014,12319.64603849
+"Comoros",2015,12157.25683009
+"Comoros",2016,12000.7290504
+"Comoros",2017,11826.4001766
+"Comoros",2018,11699.69785053
+"Comoros",2019,11568.61531289
+"Comoros",2020,11746.81680711
+"Comoros",2021,12276.44431452
+"Comoros",2022,11159.25924789
+"Djibouti",2013,12391.41019715
+"Djibouti",2014,12254.76679774
+"Djibouti",2015,12044.83722779
+"Djibouti",2016,11790.33717597
+"Djibouti",2017,11610.92104028
+"Djibouti",2018,11411.3672256
+"Djibouti",2019,11288.90345451
+"Djibouti",2020,11765.22212002
+"Djibouti",2021,12083.29676489
+"Djibouti",2022,10725.64235713
+"Eritrea",2013,11072.47787672
+"Eritrea",2014,10815.68333619
+"Eritrea",2015,10623.05324683
+"Eritrea",2016,10461.11168982
+"Eritrea",2017,10288.50289154
+"Eritrea",2018,10110.08899054
+"Eritrea",2019,9955.61986103
+"Eritrea",2020,10440.52709806
+"Eritrea",2021,10513.30464818
+"Eritrea",2022,9907.7501976
+"Ethiopia",2013,12364.3901086
+"Ethiopia",2014,11969.90506612
+"Ethiopia",2015,11637.97791078
+"Ethiopia",2016,11357.35558346
+"Ethiopia",2017,11059.31070251
+"Ethiopia",2018,10826.76719493
+"Ethiopia",2019,10598.35702704
+"Ethiopia",2020,10695.59850341
+"Ethiopia",2021,11221.69907504
+"Ethiopia",2022,10059.87529578
+"Kenya",2013,13162.20375867
+"Kenya",2014,13005.10084626
+"Kenya",2015,12841.33784381
+"Kenya",2016,12704.85246544
+"Kenya",2017,12592.55278013
+"Kenya",2018,12531.27904083
+"Kenya",2019,12461.91900624
+"Kenya",2020,13476.79645617
+"Kenya",2021,14061.87897162
+"Kenya",2022,12090.75375575
+"Madagascar",2013,11835.88694479
+"Madagascar",2014,11786.63497387
+"Madagascar",2015,11736.4923473
+"Madagascar",2016,11701.26935584
+"Madagascar",2017,11698.38733927
+"Madagascar",2018,11664.53937928
+"Madagascar",2019,11654.96687297
+"Madagascar",2020,12615.567811
+"Madagascar",2021,12626.90162001
+"Madagascar",2022,12090.41649058
+"Malawi",2013,13656.36837943
+"Malawi",2014,13231.69250349
+"Malawi",2015,12900.45192701
+"Malawi",2016,12456.27353124
+"Malawi",2017,12040.23803678
+"Malawi",2018,11732.85955793
+"Malawi",2019,11464.09454289
+"Malawi",2020,11607.10866982
+"Malawi",2021,12044.37859181
+"Malawi",2022,11116.60598103
+"Mauritius",2013,6654.4409269
+"Mauritius",2014,6545.19377194
+"Mauritius",2015,6507.74422916
+"Mauritius",2016,6418.20160405
+"Mauritius",2017,6325.26560998
+"Mauritius",2018,6575.68106372
+"Mauritius",2019,6693.84807827
+"Mauritius",2020,6436.18145015
+"Mauritius",2021,7497.7947515
+"Mauritius",2022,7115.13075963
+"Mayotte",2013,5524.46755098
+"Mayotte",2014,5684.98589941
+"Mayotte",2015,5876.56512123
+"Mayotte",2016,6054.69511596
+"Mayotte",2017,6130.80985465
+"Mayotte",2018,6193.82028717
+"Mayotte",2019,6249.25930579
+"Mayotte",2020,7296.49591358
+"Mayotte",2021,8141.66801654
+"Mayotte",2022,6784.46677531
+"Mozambique",2013,16320.54243474
+"Mozambique",2014,15878.53813807
+"Mozambique",2015,15451.08780745
+"Mozambique",2016,15029.72689756
+"Mozambique",2017,14644.29004795
+"Mozambique",2018,14278.34346369
+"Mozambique",2019,13996.26233814
+"Mozambique",2020,14436.98539116
+"Mozambique",2021,15775.34411179
+"Mozambique",2022,13029.62150517
+"Reunion",2013,3724.29194326
+"Reunion",2014,3673.3370956
+"Reunion",2015,3627.89261784
+"Reunion",2016,3586.16338609
+"Reunion",2017,3551.22676722
+"Reunion",2018,3531.3301179
+"Reunion",2019,3492.21279007
+"Reunion",2020,3472.59679842
+"Reunion",2021,3760.94371352
+"Reunion",2022,3772.102787
+"Rwanda",2013,11773.65667192
+"Rwanda",2014,11580.6847034
+"Rwanda",2015,11450.73812625
+"Rwanda",2016,11301.1629654
+"Rwanda",2017,11033.24275176
+"Rwanda",2018,10938.42428674
+"Rwanda",2019,10738.94226979
+"Rwanda",2020,10595.83278935
+"Rwanda",2021,10789.91513851
+"Rwanda",2022,10301.14577058
+"Seychelles",2013,7987.31270516
+"Seychelles",2014,8017.72397893
+"Seychelles",2015,8046.01149157
+"Seychelles",2016,8065.54325017
+"Seychelles",2017,8075.36100384
+"Seychelles",2018,8100.1250323
+"Seychelles",2019,8122.55985262
+"Seychelles",2020,6680.66046244
+"Seychelles",2021,8891.37622399
+"Seychelles",2022,8898.26804895
+"Somalia",2013,16122.4601705
+"Somalia",2014,15906.87423726
+"Somalia",2015,15571.02209117
+"Somalia",2016,15471.80392887
+"Somalia",2017,17201.02614764
+"Somalia",2018,15742.80857209
+"Somalia",2019,14419.63210564
+"Somalia",2020,15210.69282707
+"Somalia",2021,16871.58394232
+"Somalia",2022,16156.87649678
+"South Sudan",2013,14114.51341516
+"South Sudan",2014,22126.82790277
+"South Sudan",2015,27118.60171867
+"South Sudan",2016,30205.84274745
+"South Sudan",2017,31768.03604695
+"South Sudan",2018,18256.5800102
+"South Sudan",2019,14292.23035769
+"South Sudan",2020,14925.62220118
+"South Sudan",2021,15473.43207522
+"South Sudan",2022,15078.76725343
+"Uganda",2013,11902.89361519
+"Uganda",2014,11554.63699517
+"Uganda",2015,11166.53393614
+"Uganda",2016,10869.07181832
+"Uganda",2017,10558.07505704
+"Uganda",2018,10275.20317776
+"Uganda",2019,9992.02642676
+"Uganda",2020,10106.32483757
+"Uganda",2021,10114.47339184
+"Uganda",2022,9333.97882041
+"United Republic of Tanzania",2013,12167.10972262
+"United Republic of Tanzania",2014,11862.9630267
+"United Republic of Tanzania",2015,11561.14498382
+"United Republic of Tanzania",2016,11348.53230614
+"United Republic of Tanzania",2017,11071.6819219
+"United Republic of Tanzania",2018,10803.06163899
+"United Republic of Tanzania",2019,10537.01174608
+"United Republic of Tanzania",2020,10181.05026147
+"United Republic of Tanzania",2021,10687.54920089
+"United Republic of Tanzania",2022,10082.13068462
+"Zambia",2013,14920.01848975
+"Zambia",2014,14561.95017123
+"Zambia",2015,14209.33470004
+"Zambia",2016,14005.61938895
+"Zambia",2017,13785.2720168
+"Zambia",2018,13473.7333724
+"Zambia",2019,13035.84346189
+"Zambia",2020,13232.94697848
+"Zambia",2021,14261.89214002
+"Zambia",2022,11855.28217346
+"Zimbabwe",2013,16100.57571089
+"Zimbabwe",2014,15296.83831955
+"Zimbabwe",2015,14852.54428695
+"Zimbabwe",2016,14395.30127721
+"Zimbabwe",2017,14153.25843158
+"Zimbabwe",2018,13777.62206586
+"Zimbabwe",2019,13709.17614986
+"Zimbabwe",2020,13841.59024642
+"Zimbabwe",2021,15106.28053889
+"Zimbabwe",2022,13017.70168531
+"Middle Africa",2013,14747.15436743
+"Middle Africa",2014,14776.97302144
+"Middle Africa",2015,14278.37629469
+"Middle Africa",2016,14073.07050696
+"Middle Africa",2017,13991.94463456
+"Middle Africa",2018,13633.52919889
+"Middle Africa",2019,13995.70835249
+"Middle Africa",2020,13791.52845047
+"Middle Africa",2021,14331.91772793
+"Middle Africa",2022,14375.72596444
+"Angola",2013,13853.78270093
+"Angola",2014,13531.83858449
+"Angola",2015,13208.43508972
+"Angola",2016,12935.43561741
+"Angola",2017,12706.63179272
+"Angola",2018,12455.06136711
+"Angola",2019,12251.13354713
+"Angola",2020,12485.49833188
+"Angola",2021,12685.03804523
+"Angola",2022,11675.50263908
+"Cameroon",2013,14486.34392452
+"Cameroon",2014,14315.00571971
+"Cameroon",2015,14055.46353106
+"Cameroon",2016,13763.11449459
+"Cameroon",2017,13516.34831896
+"Cameroon",2018,13354.69854714
+"Cameroon",2019,13111.75817678
+"Cameroon",2020,13575.20384585
+"Cameroon",2021,14121.15214226
+"Cameroon",2022,13082.39738475
+"Central African Republic",2013,20520.64142602
+"Central African Republic",2014,29370.0408198
+"Central African Republic",2015,18656.16699172
+"Central African Republic",2016,19422.95582539
+"Central African Republic",2017,24335.84541196
+"Central African Republic",2018,18450.17781783
+"Central African Republic",2019,41265.98354052
+"Central African Republic",2020,20560.89668351
+"Central African Republic",2021,30516.11821024
+"Central African Republic",2022,73124.70217344
+"Chad",2013,18676.51422401
+"Chad",2014,18705.82080462
+"Chad",2015,18652.88990035
+"Chad",2016,18519.8802706
+"Chad",2017,18392.49547602
+"Chad",2018,18025.20780421
+"Chad",2019,17670.90380054
+"Chad",2020,18196.50833929
+"Chad",2021,18178.16907913
+"Chad",2022,16775.249021
+"Congo",2013,12790.74201345
+"Congo",2014,12621.89621288
+"Congo",2015,12490.90284157
+"Congo",2016,12385.08416606
+"Congo",2017,12259.62457288
+"Congo",2018,12146.25689782
+"Congo",2019,12807.02069328
+"Congo",2020,12611.40713763
+"Congo",2021,12738.67891734
+"Congo",2022,12095.69624162
+"Democratic Republic of the Congo",2013,14458.08371528
+"Democratic Republic of the Congo",2014,14248.01431406
+"Democratic Republic of the Congo",2015,14040.69385883
+"Democratic Republic of the Congo",2016,13828.3964712
+"Democratic Republic of the Congo",2017,13627.90531499
+"Democratic Republic of the Congo",2018,13408.58958061
+"Democratic Republic of the Congo",2019,13248.43150922
+"Democratic Republic of the Congo",2020,13503.52740957
+"Democratic Republic of the Congo",2021,13899.15060765
+"Democratic Republic of the Congo",2022,13150.85778645
+"Equatorial Guinea",2013,13778.94977368
+"Equatorial Guinea",2014,13565.07893797
+"Equatorial Guinea",2015,13384.89227261
+"Equatorial Guinea",2016,13168.13709871
+"Equatorial Guinea",2017,12983.26435338
+"Equatorial Guinea",2018,12761.97509574
+"Equatorial Guinea",2019,12592.79082106
+"Equatorial Guinea",2020,13175.13621198
+"Equatorial Guinea",2021,12840.71469356
+"Equatorial Guinea",2022,12151.39630117
+"Gabon",2013,10727.19293606
+"Gabon",2014,10611.44826061
+"Gabon",2015,10520.10143173
+"Gabon",2016,10434.92764617
+"Gabon",2017,10348.28092942
+"Gabon",2018,10247.55934065
+"Gabon",2019,10099.00896387
+"Gabon",2020,10504.65838496
+"Gabon",2021,10472.88229632
+"Gabon",2022,10029.81492124
+"Sao Tome and Principe",2013,12311.15148917
+"Sao Tome and Principe",2014,11973.02608267
+"Sao Tome and Principe",2015,11643.41783673
+"Sao Tome and Principe",2016,11317.89258989
+"Sao Tome and Principe",2017,11010.24727338
+"Sao Tome and Principe",2018,10681.33462093
+"Sao Tome and Principe",2019,10420.32237245
+"Sao Tome and Principe",2020,10702.60168502
+"Sao Tome and Principe",2021,10579.05158652
+"Sao Tome and Principe",2022,9703.74678099
+"Northern Africa",2013,9193.86927575
+"Northern Africa",2014,9045.6308898
+"Northern Africa",2015,8912.57928744
+"Northern Africa",2016,8777.59559448
+"Northern Africa",2017,8621.85170044
+"Northern Africa",2018,8495.30051661
+"Northern Africa",2019,8382.66209484
+"Northern Africa",2020,9814.77540102
+"Northern Africa",2021,10141.87150124
+"Northern Africa",2022,8371.72110118
+"Algeria",2013,6589.47311536
+"Algeria",2014,6494.91210836
+"Algeria",2015,6415.57560174
+"Algeria",2016,6352.03423027
+"Algeria",2017,6305.8793059
+"Algeria",2018,6264.95585948
+"Algeria",2019,6225.52394288
+"Algeria",2020,8150.77454585
+"Algeria",2021,6664.01341467
+"Algeria",2022,6071.95900176
+"Egypt",2013,10356.5857742
+"Egypt",2014,10225.99278604
+"Egypt",2015,10112.00715582
+"Egypt",2016,9955.67988974
+"Egypt",2017,9807.97385953
+"Egypt",2018,9659.30448356
+"Egypt",2019,9520.9835579
+"Egypt",2020,11314.53348081
+"Egypt",2021,12753.96903562
+"Egypt",2022,9857.79846667
+"Libya",2013,8097.43853038
+"Libya",2014,8501.75501596
+"Libya",2015,8328.19080122
+"Libya",2016,8229.47514371
+"Libya",2017,7819.64788789
+"Libya",2018,7616.78637653
+"Libya",2019,7669.89620241
+"Libya",2020,8276.73260077
+"Libya",2021,8622.38366933
+"Libya",2022,6981.44411631
+"Morocco",2013,8290.05774001
+"Morocco",2014,8082.81223837
+"Morocco",2015,7895.15274797
+"Morocco",2016,7724.71732553
+"Morocco",2017,7517.06401267
+"Morocco",2018,7333.86080545
+"Morocco",2019,7172.26983786
+"Morocco",2020,8151.39615404
+"Morocco",2021,7929.75671091
+"Morocco",2022,6682.6681361
+"Sudan",2013,11600.52560484
+"Sudan",2014,11333.03459711
+"Sudan",2015,11155.84295989
+"Sudan",2016,11017.64909053
+"Sudan",2017,10798.20691393
+"Sudan",2018,10647.26421116
+"Sudan",2019,10517.94797188
+"Sudan",2020,11402.59559812
+"Sudan",2021,11957.96344142
+"Sudan",2022,10948.28275051
+"Tunisia",2013,6957.26123207
+"Tunisia",2014,6901.6754417
+"Tunisia",2015,6854.44206069
+"Tunisia",2016,6787.91535557
+"Tunisia",2017,6702.87886421
+"Tunisia",2018,6603.42198143
+"Tunisia",2019,6486.6747023
+"Tunisia",2020,6929.46414276
+"Tunisia",2021,8651.16595718
+"Tunisia",2022,6296.87451946
+"Western Sahara",2013,10038.71280572
+"Western Sahara",2014,9879.97101026
+"Western Sahara",2015,9726.45127557
+"Western Sahara",2016,9574.15301548
+"Western Sahara",2017,9437.93640676
+"Western Sahara",2018,9314.65421147
+"Western Sahara",2019,9201.57518468
+"Western Sahara",2020,9091.45488709
+"Western Sahara",2021,8946.86433176
+"Western Sahara",2022,8813.35025093
+"Southern Africa",2013,12776.71469031
+"Southern Africa",2014,12298.09221109
+"Southern Africa",2015,11725.03585566
+"Southern Africa",2016,11322.95601576
+"Southern Africa",2017,10977.31565989
+"Southern Africa",2018,10717.60206177
+"Southern Africa",2019,10488.17251977
+"Southern Africa",2020,11516.78132121
+"Southern Africa",2021,14084.89189499
+"Southern Africa",2022,10760.37457099
+"Botswana",2013,13331.64261381
+"Botswana",2014,12774.23175239
+"Botswana",2015,12177.60243323
+"Botswana",2016,11561.16609691
+"Botswana",2017,10954.82136104
+"Botswana",2018,10433.98057809
+"Botswana",2019,10020.02513404
+"Botswana",2020,10040.4292335
+"Botswana",2021,13871.80649592
+"Botswana",2022,9227.62932254
+"Eswatini",2013,19868.4235968
+"Eswatini",2014,18720.114821
+"Eswatini",2015,17585.73756965
+"Eswatini",2016,16590.22599914
+"Eswatini",2017,15635.82647159
+"Eswatini",2018,14856.61624543
+"Eswatini",2019,14120.1984255
+"Eswatini",2020,14761.37777127
+"Eswatini",2021,16469.14355344
+"Eswatini",2022,12193.31303558
+"Lesotho",2013,22182.70222981
+"Lesotho",2014,21031.5745329
+"Lesotho",2015,20051.85902766
+"Lesotho",2016,19124.81069054
+"Lesotho",2017,18328.79516881
+"Lesotho",2018,17711.43643365
+"Lesotho",2019,17237.2172323
+"Lesotho",2020,17286.03206736
+"Lesotho",2021,19044.15968728
+"Lesotho",2022,16083.00139756
+"Namibia",2013,15183.27595284
+"Namibia",2014,14619.00006706
+"Namibia",2015,14166.07596258
+"Namibia",2016,13659.02312126
+"Namibia",2017,13123.03551909
+"Namibia",2018,12555.51886171
+"Namibia",2019,11974.82669648
+"Namibia",2020,11965.4215296
+"Namibia",2021,15042.81931225
+"Namibia",2022,12128.12322518
+"South Africa",2013,12283.82214922
+"South Africa",2014,11847.58155763
+"South Africa",2015,11301.31824998
+"South Africa",2016,10937.51032706
+"South Africa",2017,10625.44065497
+"South Africa",2018,10412.03360542
+"South Africa",2019,10220.96722818
+"South Africa",2020,11332.5314399
+"South Africa",2021,13900.31140526
+"South Africa",2022,10617.09688203
+"Western Africa",2013,16296.94793943
+"Western Africa",2014,16168.18476637
+"Western Africa",2015,16103.12638709
+"Western Africa",2016,15912.1705645
+"Western Africa",2017,15768.35111991
+"Western Africa",2018,15596.97810878
+"Western Africa",2019,15414.78089603
+"Western Africa",2020,15831.48763607
+"Western Africa",2021,15640.39037797
+"Western Africa",2022,14950.87397293
+"Benin",2013,13762.5838451
+"Benin",2014,13718.56549491
+"Benin",2015,13695.68483235
+"Benin",2016,13641.57102942
+"Benin",2017,13539.55274464
+"Benin",2018,13474.58176516
+"Benin",2019,13410.43001611
+"Benin",2020,13509.15479925
+"Benin",2021,13956.39104124
+"Benin",2022,13185.57567764
+"Burkina Faso",2013,15699.1774408
+"Burkina Faso",2014,15488.87612935
+"Burkina Faso",2015,15252.54231545
+"Burkina Faso",2016,15064.69050888
+"Burkina Faso",2017,14864.06778793
+"Burkina Faso",2018,14666.6900829
+"Burkina Faso",2019,14561.52631635
+"Burkina Faso",2020,14667.32899095
+"Burkina Faso",2021,15232.53918545
+"Burkina Faso",2022,14592.91135189
+"Cabo Verde",2013,7417.29635527
+"Cabo Verde",2014,7277.06396267
+"Cabo Verde",2015,7130.52166989
+"Cabo Verde",2016,7007.96035547
+"Cabo Verde",2017,6833.91983057
+"Cabo Verde",2018,6803.5717158
+"Cabo Verde",2019,6484.0376556
+"Cabo Verde",2020,7543.86555121
+"Cabo Verde",2021,7199.72524439
+"Cabo Verde",2022,6277.8940098
+"Cote d'Ivoire",2013,15659.89699862
+"Cote d'Ivoire",2014,15224.77479964
+"Cote d'Ivoire",2015,14937.35571725
+"Cote d'Ivoire",2016,14634.6052107
+"Cote d'Ivoire",2017,14356.7143387
+"Cote d'Ivoire",2018,14090.92958874
+"Cote d'Ivoire",2019,13826.68942725
+"Cote d'Ivoire",2020,14424.93737551
+"Cote d'Ivoire",2021,14216.61017857
+"Cote d'Ivoire",2022,13136.62467144
+"Gambia",2013,12442.80064154
+"Gambia",2014,12304.65061709
+"Gambia",2015,12114.06391173
+"Gambia",2016,11901.40694376
+"Gambia",2017,11759.24612719
+"Gambia",2018,11609.42883992
+"Gambia",2019,11420.42330978
+"Gambia",2020,11768.18816027
+"Gambia",2021,12240.85244334
+"Gambia",2022,11457.49541056
+"Ghana",2013,12430.42254588
+"Ghana",2014,12205.05863308
+"Ghana",2015,12056.93576042
+"Ghana",2016,11894.03618281
+"Ghana",2017,11758.19688651
+"Ghana",2018,11614.08408031
+"Ghana",2019,11457.37176675
+"Ghana",2020,11799.12284779
+"Ghana",2021,11846.07034017
+"Ghana",2022,11088.03647427
+"Guinea",2013,14379.10630476
+"Guinea",2014,14318.92001114
+"Guinea",2015,14151.46097453
+"Guinea",2016,13835.64857101
+"Guinea",2017,13743.41917454
+"Guinea",2018,13579.69307599
+"Guinea",2019,13413.90432661
+"Guinea",2020,13810.22742173
+"Guinea",2021,13785.16321012
+"Guinea",2022,12893.46123066
+"Guinea-Bissau",2013,14241.97202242
+"Guinea-Bissau",2014,13936.5354773
+"Guinea-Bissau",2015,13627.02220622
+"Guinea-Bissau",2016,13342.56444382
+"Guinea-Bissau",2017,13062.20492806
+"Guinea-Bissau",2018,12803.66726318
+"Guinea-Bissau",2019,12525.58622668
+"Guinea-Bissau",2020,13781.79401153
+"Guinea-Bissau",2021,13414.46832881
+"Guinea-Bissau",2022,11768.93786829
+"Liberia",2013,14348.91772384
+"Liberia",2014,14801.70174347
+"Liberia",2015,14806.85120859
+"Liberia",2016,14166.70771914
+"Liberia",2017,14032.21471315
+"Liberia",2018,13935.13919356
+"Liberia",2019,13833.59211395
+"Liberia",2020,14157.5786098
+"Liberia",2021,14198.90318137
+"Liberia",2022,13527.15575182
+"Mali",2013,15990.2707647
+"Mali",2014,15780.44907632
+"Mali",2015,15596.8675776
+"Mali",2016,15361.90333509
+"Mali",2017,15239.43756818
+"Mali",2018,15079.95031768
+"Mali",2019,14916.36327136
+"Mali",2020,15767.72806043
+"Mali",2021,15556.82149768
+"Mali",2022,14510.70432878
+"Mauritania",2013,11476.54352958
+"Mauritania",2014,11306.60925459
+"Mauritania",2015,11151.77969824
+"Mauritania",2016,10970.21367215
+"Mauritania",2017,10828.70232271
+"Mauritania",2018,10653.56880865
+"Mauritania",2019,10540.69861026
+"Mauritania",2020,11628.60223411
+"Mauritania",2021,11566.84900665
+"Mauritania",2022,10220.72139055
+"Niger",2013,14832.74477077
+"Niger",2014,14636.94352935
+"Niger",2015,14552.56521422
+"Niger",2016,14329.97725999
+"Niger",2017,14157.72022272
+"Niger",2018,14024.93208584
+"Niger",2019,13872.2658857
+"Niger",2020,14342.34571206
+"Niger",2021,14726.91395041
+"Niger",2022,13940.22756757
+"Nigeria",2013,18230.25960703
+"Nigeria",2014,18177.41026297
+"Nigeria",2015,18233.97118677
+"Nigeria",2016,18091.14070208
+"Nigeria",2017,17980.93755438
+"Nigeria",2018,17827.54553956
+"Nigeria",2019,17633.72729208
+"Nigeria",2020,18026.7458455
+"Nigeria",2021,17554.13586864
+"Nigeria",2022,17039.56271413
+"Saint Helena",2013,6041.33305781
+"Saint Helena",2014,6384.86306552
+"Saint Helena",2015,6599.37397651
+"Saint Helena",2016,6315.41324185
+"Saint Helena",2017,6035.65920584
+"Saint Helena",2018,5997.50867963
+"Saint Helena",2019,5865.98815881
+"Saint Helena",2020,5768.50271575
+"Saint Helena",2021,5842.89791035
+"Saint Helena",2022,5845.70247244
+"Senegal",2013,11798.31294544
+"Senegal",2014,11641.8712633
+"Senegal",2015,11431.75373211
+"Senegal",2016,11324.20313253
+"Senegal",2017,11180.61130526
+"Senegal",2018,11037.29094357
+"Senegal",2019,10911.223363
+"Senegal",2020,11376.01721433
+"Senegal",2021,12047.15206135
+"Senegal",2022,11213.27022407
+"Sierra Leone",2013,17132.41715445
+"Sierra Leone",2014,17053.18781872
+"Sierra Leone",2015,16363.74785123
+"Sierra Leone",2016,15513.04974765
+"Sierra Leone",2017,15030.07108416
+"Sierra Leone",2018,14307.54117124
+"Sierra Leone",2019,14058.37703124
+"Sierra Leone",2020,14436.68238674
+"Sierra Leone",2021,13971.10685066
+"Sierra Leone",2022,13250.48288515
+"Togo",2013,16233.04485696
+"Togo",2014,15985.2491272
+"Togo",2015,15710.88578802
+"Togo",2016,15443.56618068
+"Togo",2017,15149.79633153
+"Togo",2018,14876.93532886
+"Togo",2019,14606.13871027
+"Togo",2020,14865.08283723
+"Togo",2021,14754.95948909
+"Togo",2022,13924.28059779
+"Asia",2013,7266.65471612
+"Asia",2014,7124.60885654
+"Asia",2015,7012.43121533
+"Asia",2016,6892.02653549
+"Asia",2017,6817.04156175
+"Asia",2018,6674.12081715
+"Asia",2019,6570.30345999
+"Asia",2020,6851.35899886
+"Asia",2021,7557.09644492
+"Asia",2022,6448.11362487
+"Central Asia",2013,9132.62739543
+"Central Asia",2014,8927.87978105
+"Central Asia",2015,8724.79196232
+"Central Asia",2016,8527.64666446
+"Central Asia",2017,8350.59026466
+"Central Asia",2018,8217.46507288
+"Central Asia",2019,8119.86547509
+"Central Asia",2020,9408.62742083
+"Central Asia",2021,9544.37216543
+"Central Asia",2022,7946.90595825
+"Kazakhstan",2013,8749.08393307
+"Kazakhstan",2014,8390.03627674
+"Kazakhstan",2015,8080.53859645
+"Kazakhstan",2016,7816.82717585
+"Kazakhstan",2017,7594.42958744
+"Kazakhstan",2018,7409.50512807
+"Kazakhstan",2019,7268.10231387
+"Kazakhstan",2020,8962.49841356
+"Kazakhstan",2021,10168.17755568
+"Kazakhstan",2022,7259.95996972
+"Kyrgyzstan",2013,10927.80797897
+"Kyrgyzstan",2014,10665.55336606
+"Kyrgyzstan",2015,10387.165335
+"Kyrgyzstan",2016,9947.91339987
+"Kyrgyzstan",2017,9476.68251746
+"Kyrgyzstan",2018,9602.8820065
+"Kyrgyzstan",2019,9517.98913501
+"Kyrgyzstan",2020,11523.92494571
+"Kyrgyzstan",2021,11087.2765437
+"Kyrgyzstan",2022,9151.62033084
+"Tajikistan",2013,9555.80704574
+"Tajikistan",2014,9515.81403299
+"Tajikistan",2015,9510.0335589
+"Tajikistan",2016,9350.40484312
+"Tajikistan",2017,9103.98897609
+"Tajikistan",2018,8983.34448431
+"Tajikistan",2019,8860.62575908
+"Tajikistan",2020,11201.71087908
+"Tajikistan",2021,10200.71300856
+"Tajikistan",2022,8560.96345399
+"Turkmenistan",2013,9746.17104575
+"Turkmenistan",2014,9728.16381039
+"Turkmenistan",2015,9696.83827156
+"Turkmenistan",2016,9650.71878154
+"Turkmenistan",2017,9622.74104562
+"Turkmenistan",2018,9574.17428428
+"Turkmenistan",2019,9502.66785527
+"Turkmenistan",2020,10100.30607714
+"Turkmenistan",2021,9649.12857146
+"Turkmenistan",2022,9233.81090636
+"Uzbekistan",2013,8962.28660649
+"Uzbekistan",2014,8813.16389247
+"Uzbekistan",2015,8621.24209795
+"Uzbekistan",2016,8481.6641464
+"Uzbekistan",2017,8385.02469571
+"Uzbekistan",2018,8237.04432122
+"Uzbekistan",2019,8181.28971837
+"Uzbekistan",2020,8996.33614978
+"Uzbekistan",2021,8645.63311165
+"Uzbekistan",2022,8047.65717012
+"Eastern Asia",2013,5343.35209709
+"Eastern Asia",2014,5236.68134775
+"Eastern Asia",2015,5136.85234467
+"Eastern Asia",2016,5049.95608154
+"Eastern Asia",2017,5048.94842156
+"Eastern Asia",2018,4874.66460934
+"Eastern Asia",2019,4792.9576817
+"Eastern Asia",2020,4758.05723854
+"Eastern Asia",2021,4754.57137957
+"Eastern Asia",2022,4779.16883917
+"China",2013,5902.46429976
+"China",2014,5792.52391962
+"China",2015,5683.79120175
+"China",2016,5584.81227202
+"China",2017,5596.25955433
+"China",2018,5378.07806507
+"China",2019,5284.48644743
+"China",2020,5257.23042244
+"China",2021,5269.18733333
+"China",2022,5214.67786159
+"China, Hong Kong SAR",2013,3067.48171288
+"China, Hong Kong SAR",2014,2998.40643643
+"China, Hong Kong SAR",2015,2936.38800535
+"China, Hong Kong SAR",2016,2873.65693429
+"China, Hong Kong SAR",2017,2802.14421976
+"China, Hong Kong SAR",2018,2722.92830194
+"China, Hong Kong SAR",2019,2657.23511985
+"China, Hong Kong SAR",2020,2830.94562181
+"China, Hong Kong SAR",2021,2728.30012412
+"China, Hong Kong SAR",2022,3180.05847934
+"China, Macao SAR",2013,3509.78471859
+"China, Macao SAR",2014,3427.80698266
+"China, Macao SAR",2015,3335.28248614
+"China, Macao SAR",2016,3306.86531697
+"China, Macao SAR",2017,3284.32134392
+"China, Macao SAR",2018,3173.51713906
+"China, Macao SAR",2019,3214.522887
+"China, Macao SAR",2020,2759.96308841
+"China, Macao SAR",2021,3044.68247203
+"China, Macao SAR",2022,3911.50372739
+"China, Taiwan Province of China",2013,4496.35043004
+"China, Taiwan Province of China",2014,4554.21330563
+"China, Taiwan Province of China",2015,4390.81287565
+"China, Taiwan Province of China",2016,4463.00116114
+"China, Taiwan Province of China",2017,4323.93106372
+"China, Taiwan Province of China",2018,4178.67121066
+"China, Taiwan Province of China",2019,4114.89860015
+"China, Taiwan Province of China",2020,3965.06329693
+"China, Taiwan Province of China",2021,4074.51719543
+"China, Taiwan Province of China",2022,4312.45993235
+"Dem. People's Republic of Korea",2013,8061.75147022
+"Dem. People's Republic of Korea",2014,7765.24145126
+"Dem. People's Republic of Korea",2015,7579.24698176
+"Dem. People's Republic of Korea",2016,7505.90898214
+"Dem. People's Republic of Korea",2017,7484.41618244
+"Dem. People's Republic of Korea",2018,7492.19942298
+"Dem. People's Republic of Korea",2019,7524.53071109
+"Dem. People's Republic of Korea",2020,7711.35643185
+"Dem. People's Republic of Korea",2021,7337.30485141
+"Dem. People's Republic of Korea",2022,7177.87204793
+"Japan",2013,3150.27545576
+"Japan",2014,3073.49063562
+"Japan",2015,2998.85803018
+"Japan",2016,2945.90954708
+"Japan",2017,2905.48826172
+"Japan",2018,2875.41826353
+"Japan",2019,2836.6313016
+"Japan",2020,2769.38167937
+"Japan",2021,2800.77933389
+"Japan",2022,2944.89387387
+"Mongolia",2013,10355.73898107
+"Mongolia",2014,10059.41120946
+"Mongolia",2015,9773.12180476
+"Mongolia",2016,9492.49134301
+"Mongolia",2017,9249.95339875
+"Mongolia",2018,9025.95122045
+"Mongolia",2019,8960.79680141
+"Mongolia",2020,9247.00239605
+"Mongolia",2021,10649.08585669
+"Mongolia",2022,8489.39435519
+"Republic of Korea",2013,3709.56810463
+"Republic of Korea",2014,3520.65101064
+"Republic of Korea",2015,3460.2705981
+"Republic of Korea",2016,3330.52369683
+"Republic of Korea",2017,3211.09192312
+"Republic of Korea",2018,3191.17191273
+"Republic of Korea",2019,3078.92276616
+"Republic of Korea",2020,3054.71720738
+"Republic of Korea",2021,3000.06124968
+"Republic of Korea",2022,3400.83682458
+"Southern Asia",2013,9312.26783252
+"Southern Asia",2014,9124.74997602
+"Southern Asia",2015,8958.31706144
+"Southern Asia",2016,8784.77989557
+"Southern Asia",2017,8634.79937778
+"Southern Asia",2018,8491.01728585
+"Southern Asia",2019,8352.74899022
+"Southern Asia",2020,9129.44042521
+"Southern Asia",2021,10924.95652866
+"Southern Asia",2022,7952.40907
+"Afghanistan",2013,12918.43491868
+"Afghanistan",2014,12906.02944925
+"Afghanistan",2015,12928.69550003
+"Afghanistan",2016,12759.21840891
+"Afghanistan",2017,12860.29988769
+"Afghanistan",2018,12854.67777364
+"Afghanistan",2019,12617.80327969
+"Afghanistan",2020,14656.05136948
+"Afghanistan",2021,15387.53334359
+"Afghanistan",2022,11318.42288429
+"Bangladesh",2013,8985.68433231
+"Bangladesh",2014,8654.12117635
+"Bangladesh",2015,8350.32607313
+"Bangladesh",2016,8060.04632418
+"Bangladesh",2017,7779.68401081
+"Bangladesh",2018,7513.97715881
+"Bangladesh",2019,7255.65973101
+"Bangladesh",2020,8218.32684958
+"Bangladesh",2021,8242.10497014
+"Bangladesh",2022,6411.27768682
+"Bhutan",2013,9299.79228361
+"Bhutan",2014,9139.26924438
+"Bhutan",2015,9002.32743114
+"Bhutan",2016,8836.97973755
+"Bhutan",2017,8685.64504526
+"Bhutan",2018,8530.13196511
+"Bhutan",2019,8377.29233447
+"Bhutan",2020,8246.67875913
+"Bhutan",2021,8162.55994326
+"Bhutan",2022,7988.54324472
+"India",2013,9243.58923625
+"India",2014,9048.77008128
+"India",2015,8876.80892884
+"India",2016,8713.99737975
+"India",2017,8565.09185643
+"India",2018,8423.18402901
+"India",2019,8289.81573639
+"India",2020,8905.29925923
+"India",2021,11307.3222167
+"India",2022,7907.78436737
+"Iran (Islamic Republic of)",2013,6470.51147724
+"Iran (Islamic Republic of)",2014,6337.40325352
+"Iran (Islamic Republic of)",2015,6212.32089989
+"Iran (Islamic Republic of)",2016,6098.97478817
+"Iran (Islamic Republic of)",2017,5990.00473236
+"Iran (Islamic Republic of)",2018,5890.39038512
+"Iran (Islamic Republic of)",2019,5788.82861348
+"Iran (Islamic Republic of)",2020,8122.80514713
+"Iran (Islamic Republic of)",2021,7802.16405775
+"Iran (Islamic Republic of)",2022,5871.27253012
+"Maldives",2013,5559.92650369
+"Maldives",2014,5402.13512214
+"Maldives",2015,5207.06050862
+"Maldives",2016,5061.90297023
+"Maldives",2017,4914.77199927
+"Maldives",2018,4816.04738733
+"Maldives",2019,4686.41922274
+"Maldives",2020,5335.24250736
+"Maldives",2021,5748.10772974
+"Maldives",2022,4229.23721933
+"Nepal",2013,10609.98882073
+"Nepal",2014,10523.02296759
+"Nepal",2015,10724.20116024
+"Nepal",2016,10247.42069456
+"Nepal",2017,10117.09069635
+"Nepal",2018,9987.64680894
+"Nepal",2019,9870.23726326
+"Nepal",2020,10244.97302362
+"Nepal",2021,10915.58345669
+"Nepal",2022,9487.81063525
+"Pakistan",2013,11242.10580429
+"Pakistan",2014,11128.8500152
+"Pakistan",2015,11012.56325566
+"Pakistan",2016,10882.14828011
+"Pakistan",2017,10760.13702228
+"Pakistan",2018,10653.21255365
+"Pakistan",2019,10549.6981446
+"Pakistan",2020,11886.04596381
+"Pakistan",2021,11758.30055289
+"Pakistan",2022,10262.65390921
+"Sri Lanka",2013,6479.25565046
+"Sri Lanka",2014,6372.52955455
+"Sri Lanka",2015,6272.14711841
+"Sri Lanka",2016,6206.68940869
+"Sri Lanka",2017,6157.08301326
+"Sri Lanka",2018,6057.4696168
+"Sri Lanka",2019,5955.05230872
+"Sri Lanka",2020,5853.72535366
+"Sri Lanka",2021,6275.51434526
+"Sri Lanka",2022,5682.45371978
+"South-Eastern Asia",2013,8482.29202096
+"South-Eastern Asia",2014,8378.45279203
+"South-Eastern Asia",2015,8271.9072262
+"South-Eastern Asia",2016,8175.76921712
+"South-Eastern Asia",2017,8050.50566746
+"South-Eastern Asia",2018,7992.6253979
+"South-Eastern Asia",2019,7908.36921707
+"South-Eastern Asia",2020,8299.65873748
+"South-Eastern Asia",2021,9410.05757296
+"South-Eastern Asia",2022,7872.12343024
+"Brunei Darussalam",2013,6800.46082389
+"Brunei Darussalam",2014,6797.01777152
+"Brunei Darussalam",2015,6787.78176401
+"Brunei Darussalam",2016,6775.59633114
+"Brunei Darussalam",2017,6757.29574038
+"Brunei Darussalam",2018,6733.68025784
+"Brunei Darussalam",2019,6706.21253933
+"Brunei Darussalam",2020,6675.39669437
+"Brunei Darussalam",2021,6863.58695543
+"Brunei Darussalam",2022,8449.35465099
+"Cambodia",2013,9250.9359153
+"Cambodia",2014,9103.45062319
+"Cambodia",2015,8991.32448862
+"Cambodia",2016,8897.13496433
+"Cambodia",2017,8818.47801933
+"Cambodia",2018,8762.24269079
+"Cambodia",2019,8713.31494789
+"Cambodia",2020,8852.82910162
+"Cambodia",2021,9460.18403
+"Cambodia",2022,8557.19058023
+"Indonesia",2013,9835.3799385
+"Indonesia",2014,9711.82659117
+"Indonesia",2015,9590.69261663
+"Indonesia",2016,9476.68549935
+"Indonesia",2017,9357.4311225
+"Indonesia",2018,9286.90178846
+"Indonesia",2019,9145.6752361
+"Indonesia",2020,10653.5875047
+"Indonesia",2021,11966.54249505
+"Indonesia",2022,8833.27219515
+"Lao People's Democratic Republic",2013,11336.93699096
+"Lao People's Democratic Republic",2014,11039.47596657
+"Lao People's Democratic Republic",2015,10900.83803791
+"Lao People's Democratic Republic",2016,10761.89236386
+"Lao People's Democratic Republic",2017,10614.24613124
+"Lao People's Democratic Republic",2018,10499.15569905
+"Lao People's Democratic Republic",2019,10359.32904016
+"Lao People's Democratic Republic",2020,10482.77402527
+"Lao People's Democratic Republic",2021,10698.24722482
+"Lao People's Democratic Republic",2022,9972.07375328
+"Malaysia",2013,6313.21995071
+"Malaysia",2014,6387.64020986
+"Malaysia",2015,6428.35839999
+"Malaysia",2016,6382.80910747
+"Malaysia",2017,6287.77005464
+"Malaysia",2018,6184.07983545
+"Malaysia",2019,6095.84248433
+"Malaysia",2020,6016.2927809
+"Malaysia",2021,7246.36296085
+"Malaysia",2022,6336.92297627
+"Myanmar",2013,11978.50204227
+"Myanmar",2014,11807.81272877
+"Myanmar",2015,11672.26906699
+"Myanmar",2016,11510.93391932
+"Myanmar",2017,11388.25498837
+"Myanmar",2018,11241.93650161
+"Myanmar",2019,11139.7317951
+"Myanmar",2020,11247.90830737
+"Myanmar",2021,12102.61321489
+"Myanmar",2022,11131.78106401
+"Philippines",2013,9666.03383849
+"Philippines",2014,9668.91085928
+"Philippines",2015,9569.31562684
+"Philippines",2016,9532.83424479
+"Philippines",2017,9275.89251253
+"Philippines",2018,9394.70752794
+"Philippines",2019,9446.78422529
+"Philippines",2020,9192.10535933
+"Philippines",2021,13118.98103378
+"Philippines",2022,9709.35529438
+"Singapore",2013,3486.24438152
+"Singapore",2014,3434.82781094
+"Singapore",2015,3387.5215645
+"Singapore",2016,3334.95645145
+"Singapore",2017,3267.07644978
+"Singapore",2018,3173.24814407
+"Singapore",2019,3081.22427921
+"Singapore",2020,3076.96539163
+"Singapore",2021,3145.69024312
+"Singapore",2022,3337.57963586
+"Thailand",2013,5749.22570145
+"Thailand",2014,5611.82888879
+"Thailand",2015,5492.39748314
+"Thailand",2016,5405.79557777
+"Thailand",2017,5320.64937001
+"Thailand",2018,5247.76253741
+"Thailand",2019,5266.48669877
+"Thailand",2020,5221.13778158
+"Thailand",2021,5107.88780109
+"Thailand",2022,6018.12964894
+"Timor-Leste",2013,11754.60568234
+"Timor-Leste",2014,11617.18552451
+"Timor-Leste",2015,11483.75979827
+"Timor-Leste",2016,11356.92979425
+"Timor-Leste",2017,11227.35084767
+"Timor-Leste",2018,11089.79550768
+"Timor-Leste",2019,10958.291125
+"Timor-Leste",2020,10834.44469343
+"Timor-Leste",2021,11518.34821057
+"Timor-Leste",2022,10561.69072454
+"Viet Nam",2013,6661.65575615
+"Viet Nam",2014,6633.3660539
+"Viet Nam",2015,6600.2750042
+"Viet Nam",2016,6587.93260219
+"Viet Nam",2017,6570.90626979
+"Viet Nam",2018,6539.26600718
+"Viet Nam",2019,6490.59000922
+"Viet Nam",2020,5891.77491316
+"Viet Nam",2021,6585.26395344
+"Viet Nam",2022,6368.25632583
+"Western Asia",2013,7155.6872199
+"Western Asia",2014,6989.41576977
+"Western Asia",2015,7005.1049865
+"Western Asia",2016,6923.83273076
+"Western Asia",2017,6728.13963378
+"Western Asia",2018,6543.14076969
+"Western Asia",2019,6360.61121461
+"Western Asia",2020,7171.12654758
+"Western Asia",2021,7499.42599248
+"Western Asia",2022,6381.58276452
+"Armenia",2013,7425.22772455
+"Armenia",2014,7288.48143576
+"Armenia",2015,7161.28111217
+"Armenia",2016,7029.94617583
+"Armenia",2017,6906.29147785
+"Armenia",2018,6790.93469425
+"Armenia",2019,6685.63284095
+"Armenia",2020,10130.697072
+"Armenia",2021,9001.77549359
+"Armenia",2022,7078.13769947
+"Azerbaijan",2013,8574.00868048
+"Azerbaijan",2014,8345.81833162
+"Azerbaijan",2015,8149.28227346
+"Azerbaijan",2016,8034.44552681
+"Azerbaijan",2017,7974.64573247
+"Azerbaijan",2018,7811.97539349
+"Azerbaijan",2019,7650.6921052
+"Azerbaijan",2020,9783.81785802
+"Azerbaijan",2021,9631.51213044
+"Azerbaijan",2022,6952.20024061
+"Bahrain",2013,4323.43609319
+"Bahrain",2014,4240.89005422
+"Bahrain",2015,4196.45181139
+"Bahrain",2016,4174.09494678
+"Bahrain",2017,4181.24460682
+"Bahrain",2018,4187.31403979
+"Bahrain",2019,4171.92424365
+"Bahrain",2020,4918.69249793
+"Bahrain",2021,5469.47436355
+"Bahrain",2022,3980.45849561
+"Cyprus",2013,3955.90520848
+"Cyprus",2014,3951.53112643
+"Cyprus",2015,3901.52192705
+"Cyprus",2016,3874.97412041
+"Cyprus",2017,3905.97308441
+"Cyprus",2018,3873.09205897
+"Cyprus",2019,3919.21274295
+"Cyprus",2020,3955.5363675
+"Cyprus",2021,4207.86503947
+"Cyprus",2022,4312.70003646
+"Georgia",2013,7688.88698088
+"Georgia",2014,7707.38610226
+"Georgia",2015,7599.9459667
+"Georgia",2016,7678.78356551
+"Georgia",2017,7526.58122834
+"Georgia",2018,7151.67777283
+"Georgia",2019,7080.92720057
+"Georgia",2020,7528.68107918
+"Georgia",2021,8887.61297313
+"Georgia",2022,7124.56848783
+"Iraq",2013,9899.42674496
+"Iraq",2014,9586.21532733
+"Iraq",2015,9429.47879436
+"Iraq",2016,9965.49957487
+"Iraq",2017,9449.76313106
+"Iraq",2018,8851.28467353
+"Iraq",2019,8776.75214126
+"Iraq",2020,10744.69861313
+"Iraq",2021,9434.35284601
+"Iraq",2022,8376.70112723
+"Israel",2013,3506.358173
+"Israel",2014,3496.11106347
+"Israel",2015,3541.50495825
+"Israel",2016,3412.04844637
+"Israel",2017,3381.98898598
+"Israel",2018,3309.08187099
+"Israel",2019,3312.99037286
+"Israel",2020,3395.9777541
+"Israel",2021,3448.46109067
+"Israel",2022,3346.542316
+"Jordan",2013,7183.33856245
+"Jordan",2014,7005.18743272
+"Jordan",2015,6752.88381474
+"Jordan",2016,6472.29932491
+"Jordan",2017,6189.22601816
+"Jordan",2018,5969.48075279
+"Jordan",2019,5781.75001173
+"Jordan",2020,6678.38313549
+"Jordan",2021,7670.88065841
+"Jordan",2022,5718.08754884
+"Kuwait",2013,5153.01826855
+"Kuwait",2014,5001.85189778
+"Kuwait",2015,4870.90731877
+"Kuwait",2016,4742.74535796
+"Kuwait",2017,4651.58461437
+"Kuwait",2018,4580.16809315
+"Kuwait",2019,4529.10797506
+"Kuwait",2020,5491.84099239
+"Kuwait",2021,5811.50954658
+"Kuwait",2022,5343.79068182
+"Lebanon",2013,5233.55892527
+"Lebanon",2014,5173.81558698
+"Lebanon",2015,5107.26899128
+"Lebanon",2016,5088.74502331
+"Lebanon",2017,5124.3303353
+"Lebanon",2018,5095.7116808
+"Lebanon",2019,5110.27638318
+"Lebanon",2020,5880.60121367
+"Lebanon",2021,7624.65226472
+"Lebanon",2022,5155.50480907
+"Oman",2013,4867.50807714
+"Oman",2014,4697.10147957
+"Oman",2015,4566.7822133
+"Oman",2016,4473.85091793
+"Oman",2017,4412.3587281
+"Oman",2018,4373.59151061
+"Oman",2019,4349.77439009
+"Oman",2020,5399.17863367
+"Oman",2021,6320.38935574
+"Oman",2022,5509.096252
+"Qatar",2013,3980.04893328
+"Qatar",2014,3818.36160304
+"Qatar",2015,3673.88178002
+"Qatar",2016,3543.76959196
+"Qatar",2017,3436.16527171
+"Qatar",2018,3351.26171908
+"Qatar",2019,3275.02146943
+"Qatar",2020,4544.98665165
+"Qatar",2021,4092.52478916
+"Qatar",2022,3766.09123435
+"Saudi Arabia",2013,5855.06869108
+"Saudi Arabia",2014,5574.72480929
+"Saudi Arabia",2015,5265.7545852
+"Saudi Arabia",2016,5004.86816139
+"Saudi Arabia",2017,4850.09113892
+"Saudi Arabia",2018,4856.58425895
+"Saudi Arabia",2019,5088.73420538
+"Saudi Arabia",2020,5474.08930013
+"Saudi Arabia",2021,5759.07627014
+"Saudi Arabia",2022,5634.83133819
+"State of Palestine",2013,7217.27057772
+"State of Palestine",2014,7743.80759344
+"State of Palestine",2015,6974.41847586
+"State of Palestine",2016,6801.69723735
+"State of Palestine",2017,6648.93602883
+"State of Palestine",2018,6540.84020436
+"State of Palestine",2019,6325.76872038
+"State of Palestine",2020,6941.10685667
+"State of Palestine",2021,7686.00296029
+"State of Palestine",2022,5880.93132259
+"Syrian Arab Republic",2013,11418.77987164
+"Syrian Arab Republic",2014,11216.88754395
+"Syrian Arab Republic",2015,12300.49737877
+"Syrian Arab Republic",2016,11307.35709161
+"Syrian Arab Republic",2017,11082.54517441
+"Syrian Arab Republic",2018,10278.5712482
+"Syrian Arab Republic",2019,8662.99147231
+"Syrian Arab Republic",2020,8437.46454166
+"Syrian Arab Republic",2021,8356.78378108
+"Syrian Arab Republic",2022,7887.65532744
+"Turkiye",2013,6132.94441194
+"Turkiye",2014,6011.96488311
+"Turkiye",2015,5989.99069366
+"Turkiye",2016,5978.10761907
+"Turkiye",2017,5765.20079954
+"Turkiye",2018,5562.46772073
+"Turkiye",2019,5431.91473024
+"Turkiye",2020,6268.29935783
+"Turkiye",2021,6785.7611913
+"Turkiye",2022,5613.54058175
+"United Arab Emirates",2013,3716.22641708
+"United Arab Emirates",2014,3707.07016002
+"United Arab Emirates",2015,3675.82575764
+"United Arab Emirates",2016,3629.28251705
+"United Arab Emirates",2017,3545.46590985
+"United Arab Emirates",2018,3530.96617357
+"United Arab Emirates",2019,3472.79774688
+"United Arab Emirates",2020,3704.19889079
+"United Arab Emirates",2021,6028.56572343
+"United Arab Emirates",2022,4988.7150518
+"Yemen",2013,10175.3478544
+"Yemen",2014,10164.33723082
+"Yemen",2015,10752.71316148
+"Yemen",2016,10594.00208656
+"Yemen",2017,10589.12510405
+"Yemen",2018,11164.85377337
+"Yemen",2019,10854.92895736
+"Yemen",2020,11542.79602293
+"Yemen",2021,11892.71999132
+"Yemen",2022,10563.49023212
+"Europe",2013,5390.92213959
+"Europe",2014,5266.34483366
+"Europe",2015,5249.86559497
+"Europe",2016,5075.75702573
+"Europe",2017,4966.37153459
+"Europe",2018,4938.93612766
+"Europe",2019,4836.72712012
+"Europe",2020,5356.76306799
+"Europe",2021,5624.1936152
+"Europe",2022,5073.29555321
+"Eastern Europe",2013,7778.53154196
+"Eastern Europe",2014,7659.17327532
+"Eastern Europe",2015,7440.5822898
+"Eastern Europe",2016,7182.24936551
+"Eastern Europe",2017,6898.45464086
+"Eastern Europe",2018,6914.36357157
+"Eastern Europe",2019,6793.0575161
+"Eastern Europe",2020,7726.66450598
+"Eastern Europe",2021,8678.55513575
+"Eastern Europe",2022,7002.85600915
+"Belarus",2013,7924.02157893
+"Belarus",2014,7638.60787949
+"Belarus",2015,7376.81930551
+"Belarus",2016,7202.16891362
+"Belarus",2017,7098.17904802
+"Belarus",2018,7166.36282911
+"Belarus",2019,7257.72639799
+"Belarus",2020,8666.3378526
+"Belarus",2021,8709.30028283
+"Belarus",2022,7261.92346123
+"Bulgaria",2013,6868.78991709
+"Bulgaria",2014,7108.51840892
+"Bulgaria",2015,7096.27907408
+"Bulgaria",2016,6910.2686054
+"Bulgaria",2017,6958.80143139
+"Bulgaria",2018,6858.37728065
+"Bulgaria",2019,6766.36469362
+"Bulgaria",2020,7729.70882579
+"Bulgaria",2021,9318.41165462
+"Bulgaria",2022,7371.14838579
+"Czechia",2013,5324.09698092
+"Czechia",2014,5033.94717726
+"Czechia",2015,5152.63379419
+"Czechia",2016,4910.24670455
+"Czechia",2017,4957.99450715
+"Czechia",2018,4927.60977434
+"Czechia",2019,4815.61255247
+"Czechia",2020,5369.3528574
+"Czechia",2021,5837.15843985
+"Czechia",2022,4838.44615019
+"Hungary",2013,6438.45318957
+"Hungary",2014,6348.89432659
+"Hungary",2015,6492.04437826
+"Hungary",2016,6195.85197525
+"Hungary",2017,6304.381499
+"Hungary",2018,6196.7389579
+"Hungary",2019,6045.23661569
+"Hungary",2020,6480.72480577
+"Hungary",2021,7389.59649953
+"Hungary",2022,6178.99842574
+"Poland",2013,5624.75595856
+"Poland",2014,5520.5132643
+"Poland",2015,5388.16663018
+"Poland",2016,5370.51073092
+"Poland",2017,5339.58058558
+"Poland",2018,5378.86046286
+"Poland",2019,5231.52768727
+"Poland",2020,5887.82990025
+"Poland",2021,6386.12544774
+"Poland",2022,5250.88105293
+"Republic of Moldova",2013,9263.84792054
+"Republic of Moldova",2014,9307.20234456
+"Republic of Moldova",2015,9387.23069553
+"Republic of Moldova",2016,9338.97574662
+"Republic of Moldova",2017,9190.68630382
+"Republic of Moldova",2018,9309.08521824
+"Republic of Moldova",2019,9349.26985433
+"Republic of Moldova",2020,9702.26988211
+"Republic of Moldova",2021,10782.6158422
+"Republic of Moldova",2022,8607.44278069
+"Romania",2013,6831.71139783
+"Romania",2014,6910.8537011
+"Romania",2015,7016.44911544
+"Romania",2016,6801.6741472
+"Romania",2017,6827.51358737
+"Romania",2018,6788.04191289
+"Romania",2019,6637.81521157
+"Romania",2020,7431.68937811
+"Romania",2021,8299.27975307
+"Romania",2022,6674.95891912
+"Russian Federation",2013,8649.44321521
+"Russian Federation",2014,8548.43006227
+"Russian Federation",2015,8283.11531139
+"Russian Federation",2016,7998.80735278
+"Russian Federation",2017,7512.77624864
+"Russian Federation",2018,7470.42028825
+"Russian Federation",2019,7370.20039285
+"Russian Federation",2020,8647.03753727
+"Russian Federation",2021,9715.03930779
+"Russian Federation",2022,7694.65200986
+"Slovakia",2013,6048.54714817
+"Slovakia",2014,5843.21551581
+"Slovakia",2015,5947.4526834
+"Slovakia",2016,5658.51874305
+"Slovakia",2017,5678.63042761
+"Slovakia",2018,5606.87895703
+"Slovakia",2019,5371.23355071
+"Slovakia",2020,5900.31961092
+"Slovakia",2021,7275.69478366
+"Slovakia",2022,5716.42591205
+"Ukraine",2013,8399.26468349
+"Ukraine",2014,8124.36607871
+"Ukraine",2015,7598.20036771
+"Ukraine",2016,7210.34389684
+"Ukraine",2017,6887.3892795
+"Ukraine",2018,7157.4015769
+"Ukraine",2019,6976.26522059
+"Ukraine",2020,7430.47133676
+"Ukraine",2021,8620.91994946
+"Ukraine",2022,7290.3458755
+"Northern Europe",2013,4176.02273397
+"Northern Europe",2014,4063.48357169
+"Northern Europe",2015,4115.76447729
+"Northern Europe",2016,4049.13646792
+"Northern Europe",2017,3990.99629846
+"Northern Europe",2018,3983.9794269
+"Northern Europe",2019,3841.30663247
+"Northern Europe",2020,4161.22422037
+"Northern Europe",2021,4096.9339022
+"Northern Europe",2022,3994.05373742
+"Denmark",2013,4317.05199259
+"Denmark",2014,4163.71866694
+"Denmark",2015,4138.15594539
+"Denmark",2016,4074.82491422
+"Denmark",2017,3988.47250159
+"Denmark",2018,4045.63882302
+"Denmark",2019,3869.52658545
+"Denmark",2020,3825.01851541
+"Denmark",2021,3877.45128434
+"Denmark",2022,3945.50755041
+"Estonia",2013,5548.88360284
+"Estonia",2014,5575.64549702
+"Estonia",2015,5336.47034429
+"Estonia",2016,5280.46621459
+"Estonia",2017,5135.47216231
+"Estonia",2018,5092.22188423
+"Estonia",2019,4886.46742163
+"Estonia",2020,4829.33567708
+"Estonia",2021,5478.77268263
+"Estonia",2022,5141.40655549
+"Faroe Islands",2013,4844.28799011
+"Faroe Islands",2014,4783.51116511
+"Faroe Islands",2015,4733.20280437
+"Faroe Islands",2016,4672.39119768
+"Faroe Islands",2017,4624.5996324
+"Faroe Islands",2018,4576.28223349
+"Faroe Islands",2019,4537.94290594
+"Faroe Islands",2020,4507.30605744
+"Faroe Islands",2021,4599.49956597
+"Faroe Islands",2022,4853.64540353
+"Finland",2013,4064.83690194
+"Finland",2014,3997.63965107
+"Finland",2015,3883.67204233
+"Finland",2016,3909.19252721
+"Finland",2017,3821.96961699
+"Finland",2018,3777.35427108
+"Finland",2019,3679.02828876
+"Finland",2020,3695.63384039
+"Finland",2021,3710.58133299
+"Finland",2022,3943.09220999
+"Guernsey",2013,3309.39357935
+"Guernsey",2014,3250.81581878
+"Guernsey",2015,3338.32658471
+"Guernsey",2016,3401.90517426
+"Guernsey",2017,3488.01692483
+"Guernsey",2018,3340.11631098
+"Guernsey",2019,3161.21528671
+"Guernsey",2020,3141.89848664
+"Guernsey",2021,3615.47028569
+"Guernsey",2022,3219.12055297
+"Iceland",2013,3746.65062437
+"Iceland",2014,3483.36694323
+"Iceland",2015,3582.72889098
+"Iceland",2016,3727.9067972
+"Iceland",2017,3537.4258684
+"Iceland",2018,3467.79057603
+"Iceland",2019,3352.65507409
+"Iceland",2020,3368.8171067
+"Iceland",2021,3311.81243957
+"Iceland",2022,3867.85959312
+"Ireland",2013,4002.26014635
+"Ireland",2014,3857.25776031
+"Ireland",2015,3827.15202044
+"Ireland",2016,3771.5347503
+"Ireland",2017,3609.96414
+"Ireland",2018,3597.88558991
+"Ireland",2019,3485.99155063
+"Ireland",2020,3505.26550265
+"Ireland",2021,3730.18150105
+"Ireland",2022,3624.75955155
+"Isle of Man",2013,4138.05529645
+"Isle of Man",2014,4109.94603267
+"Isle of Man",2015,4086.29096811
+"Isle of Man",2016,4042.71958467
+"Isle of Man",2017,4002.79974601
+"Isle of Man",2018,3965.6318987
+"Isle of Man",2019,3922.33654998
+"Isle of Man",2020,3979.66309751
+"Isle of Man",2021,4042.89004805
+"Isle of Man",2022,3848.41002526
+"Jersey",2013,4084.7087107
+"Jersey",2014,4101.94543697
+"Jersey",2015,4162.00845063
+"Jersey",2016,4234.52851056
+"Jersey",2017,4301.73985706
+"Jersey",2018,4367.14482633
+"Jersey",2019,4423.51697681
+"Jersey",2020,4635.09122863
+"Jersey",2021,4677.64583751
+"Jersey",2022,4497.3257086
+"Latvia",2013,6996.41976199
+"Latvia",2014,6890.202124
+"Latvia",2015,6746.34181205
+"Latvia",2016,6695.17654437
+"Latvia",2017,6673.52700741
+"Latvia",2018,6604.19246989
+"Latvia",2019,6276.04389757
+"Latvia",2020,6365.53850095
+"Latvia",2021,7697.75881043
+"Latvia",2022,6690.77173777
+"Lithuania",2013,6991.93571992
+"Lithuania",2014,6687.95695238
+"Lithuania",2015,6800.07754682
+"Lithuania",2016,6628.91890895
+"Lithuania",2017,6259.33437412
+"Lithuania",2018,6139.17623343
+"Lithuania",2019,5880.01387808
+"Lithuania",2020,6603.7024776
+"Lithuania",2021,7063.89906129
+"Lithuania",2022,6793.33507226
+"Norway",2013,3776.83904118
+"Norway",2014,3622.40250729
+"Norway",2015,3561.71068422
+"Norway",2016,3506.19069004
+"Norway",2017,3430.63035162
+"Norway",2018,3383.15224779
+"Norway",2019,3306.50314384
+"Norway",2020,3227.67230189
+"Norway",2021,3241.75191173
+"Norway",2022,3445.56597431
+"Sweden",2013,3684.09699845
+"Sweden",2014,3575.46074697
+"Sweden",2015,3589.30882313
+"Sweden",2016,3532.92936569
+"Sweden",2017,3499.28000464
+"Sweden",2018,3463.65548508
+"Sweden",2019,3273.71113899
+"Sweden",2020,3516.82361103
+"Sweden",2021,3287.3089152
+"Sweden",2022,3280.82128093
+"United Kingdom",2013,4033.1836503
+"United Kingdom",2014,3935.56628093
+"United Kingdom",2015,4039.75603919
+"United Kingdom",2016,3969.24629143
+"United Kingdom",2017,3938.08913848
+"United Kingdom",2018,3948.5948191
+"United Kingdom",2019,3819.3637219
+"United Kingdom",2020,4261.36921869
+"United Kingdom",2021,4104.42996154
+"United Kingdom",2022,3955.27152545
+"Southern Europe",2013,3851.93202027
+"Southern Europe",2014,3782.66691099
+"Southern Europe",2015,3873.39797272
+"Southern Europe",2016,3722.53774179
+"Southern Europe",2017,3762.03252379
+"Southern Europe",2018,3643.9800527
+"Southern Europe",2019,3578.81804832
+"Southern Europe",2020,4020.09842232
+"Southern Europe",2021,3932.64675958
+"Southern Europe",2022,3953.0904137
+"Albania",2013,5197.87450114
+"Albania",2014,5198.23131574
+"Albania",2015,5050.94926556
+"Albania",2016,4927.85188618
+"Albania",2017,4822.60429335
+"Albania",2018,4669.09638776
+"Albania",2019,4565.85408376
+"Albania",2020,5342.74275694
+"Albania",2021,5863.36404202
+"Albania",2022,4886.50523038
+"Andorra",2013,2806.47887628
+"Andorra",2014,2783.58267502
+"Andorra",2015,2770.45174487
+"Andorra",2016,2784.03288236
+"Andorra",2017,2822.65048101
+"Andorra",2018,2858.15842908
+"Andorra",2019,2901.53208296
+"Andorra",2020,4506.10947907
+"Andorra",2021,3511.4907054
+"Andorra",2022,2927.90371941
+"Bosnia and Herzegovina",2013,5693.57400917
+"Bosnia and Herzegovina",2014,5714.84884818
+"Bosnia and Herzegovina",2015,5727.88789075
+"Bosnia and Herzegovina",2016,5701.45649708
+"Bosnia and Herzegovina",2017,5569.07709987
+"Bosnia and Herzegovina",2018,5285.46156553
+"Bosnia and Herzegovina",2019,5580.39268642
+"Bosnia and Herzegovina",2020,6322.17349102
+"Bosnia and Herzegovina",2021,7434.47096782
+"Bosnia and Herzegovina",2022,5845.74572707
+"Croatia",2013,5601.40809952
+"Croatia",2014,5614.57512884
+"Croatia",2015,5563.21652126
+"Croatia",2016,5581.37793453
+"Croatia",2017,5535.96576283
+"Croatia",2018,5450.44160073
+"Croatia",2019,5278.32889043
+"Croatia",2020,5622.51425831
+"Croatia",2021,5742.13925932
+"Croatia",2022,5183.71768138
+"Gibraltar",2013,3330.54905962
+"Gibraltar",2014,3313.23112961
+"Gibraltar",2015,3306.1854808
+"Gibraltar",2016,3284.45955653
+"Gibraltar",2017,3249.07080208
+"Gibraltar",2018,3198.14611989
+"Gibraltar",2019,3152.18061874
+"Gibraltar",2020,3183.69773836
+"Gibraltar",2021,4155.29019029
+"Gibraltar",2022,3054.11750704
+"Greece",2013,3990.96198944
+"Greece",2014,3970.68471098
+"Greece",2015,4106.80826076
+"Greece",2016,3917.75157328
+"Greece",2017,4042.01523177
+"Greece",2018,3832.89705457
+"Greece",2019,3892.87316007
+"Greece",2020,3803.36244452
+"Greece",2021,4177.87659739
+"Greece",2022,4410.52497338
+"Italy",2013,3410.59992072
+"Italy",2014,3323.89171876
+"Italy",2015,3467.72184242
+"Italy",2016,3273.33554644
+"Italy",2017,3386.4674198
+"Italy",2018,3223.99341138
+"Italy",2019,3176.00464389
+"Italy",2020,3617.67829206
+"Italy",2021,3341.64601979
+"Italy",2022,3619.5250513
+"Kosovo (under UNSC res. 1244)",2013,6232.72530681
+"Kosovo (under UNSC res. 1244)",2014,6296.83849013
+"Kosovo (under UNSC res. 1244)",2015,6373.5222585
+"Kosovo (under UNSC res. 1244)",2016,6033.18918438
+"Kosovo (under UNSC res. 1244)",2017,5861.80281721
+"Kosovo (under UNSC res. 1244)",2018,5852.94358293
+"Kosovo (under UNSC res. 1244)",2019,5783.77451377
+"Kosovo (under UNSC res. 1244)",2020,8627.83454757
+"Kosovo (under UNSC res. 1244)",2021,7154.1811884
+"Kosovo (under UNSC res. 1244)",2022,5648.44164447
+"Malta",2013,3659.2192744
+"Malta",2014,3496.8783349
+"Malta",2015,3392.79970365
+"Malta",2016,3364.10489932
+"Malta",2017,3248.2477601
+"Malta",2018,3309.72926696
+"Malta",2019,3294.32020861
+"Malta",2020,3489.36740901
+"Malta",2021,3516.19722669
+"Malta",2022,3494.63698765
+"Montenegro",2013,6126.03367549
+"Montenegro",2014,6070.00093855
+"Montenegro",2015,6044.63759324
+"Montenegro",2016,6037.67603473
+"Montenegro",2017,6009.99437695
+"Montenegro",2018,5892.77776671
+"Montenegro",2019,5992.93223852
+"Montenegro",2020,6447.61917387
+"Montenegro",2021,7810.04373668
+"Montenegro",2022,6311.59487419
+"North Macedonia",2013,6698.83158898
+"North Macedonia",2014,6684.79867608
+"North Macedonia",2015,6726.28934274
+"North Macedonia",2016,6635.16846567
+"North Macedonia",2017,6429.49717213
+"North Macedonia",2018,5985.27231467
+"North Macedonia",2019,6050.61121249
+"North Macedonia",2020,7500.91133306
+"North Macedonia",2021,8201.09372953
+"North Macedonia",2022,6333.26436599
+"Portugal",2013,4041.98659336
+"Portugal",2014,3882.47243438
+"Portugal",2015,3887.15853122
+"Portugal",2016,3869.34666123
+"Portugal",2017,3757.3945749
+"Portugal",2018,3776.62292043
+"Portugal",2019,3643.21096629
+"Portugal",2020,3883.04768212
+"Portugal",2021,3868.53435519
+"Portugal",2022,3925.88965696
+"San Marino",2013,2906.48524127
+"San Marino",2014,2835.53814738
+"San Marino",2015,2771.27834474
+"San Marino",2016,2715.62406269
+"San Marino",2017,2666.9861422
+"San Marino",2018,2616.93365249
+"San Marino",2019,2568.00947203
+"San Marino",2020,3464.69725765
+"San Marino",2021,3155.88569523
+"San Marino",2022,2435.36448534
+"Serbia",2013,6669.35533415
+"Serbia",2014,6586.92555714
+"Serbia",2015,6494.96494632
+"Serbia",2016,6454.20949919
+"Serbia",2017,6431.66436313
+"Serbia",2018,6301.60094007
+"Serbia",2019,6279.25030939
+"Serbia",2020,7203.15963475
+"Serbia",2021,8511.22162457
+"Serbia",2022,6753.21706668
+"Slovenia",2013,4408.02022105
+"Slovenia",2014,4336.4303072
+"Slovenia",2015,4236.88218124
+"Slovenia",2016,4231.00623256
+"Slovenia",2017,4198.50947819
+"Slovenia",2018,4097.80789649
+"Slovenia",2019,4032.22056578
+"Slovenia",2020,4365.41568463
+"Slovenia",2021,4285.23303407
+"Slovenia",2022,4112.59020093
+"Spain",2013,3395.20285741
+"Spain",2014,3346.30591251
+"Spain",2015,3432.88998588
+"Spain",2016,3290.62856845
+"Spain",2017,3296.53453581
+"Spain",2018,3257.87048554
+"Spain",2019,3128.26085184
+"Spain",2020,3578.07649252
+"Spain",2021,3313.16602745
+"Spain",2022,3499.83881773
+"Western Europe",2013,3962.60589912
+"Western Europe",2014,3788.87761667
+"Western Europe",2015,3904.29974143
+"Western Europe",2016,3791.63702653
+"Western Europe",2017,3769.07582127
+"Western Europe",2018,3757.36330589
+"Western Europe",2019,3657.60641182
+"Western Europe",2020,3817.19691948
+"Western Europe",2021,3748.53534088
+"Western Europe",2022,3844.78185501
+"Austria",2013,3996.8180461
+"Austria",2014,3865.81457568
+"Austria",2015,3971.09533718
+"Austria",2016,3792.96652189
+"Austria",2017,3788.94295674
+"Austria",2018,3773.85350906
+"Austria",2019,3679.99891028
+"Austria",2020,3706.87939302
+"Austria",2021,3703.47865177
+"Austria",2022,3927.83287803
+"Belgium",2013,4218.02019629
+"Belgium",2014,3966.65827343
+"Belgium",2015,4060.22540571
+"Belgium",2016,3904.05215657
+"Belgium",2017,3863.73521255
+"Belgium",2018,3820.77332288
+"Belgium",2019,3687.48877557
+"Belgium",2020,4139.72736599
+"Belgium",2021,3754.6522839
+"Belgium",2022,3938.21323623
+"France",2013,3616.14144368
+"France",2014,3462.57171571
+"France",2015,3556.92546463
+"France",2016,3472.65080888
+"France",2017,3459.20555715
+"France",2018,3414.93624892
+"France",2019,3361.03806046
+"France",2020,3548.22868648
+"France",2021,3502.06476197
+"France",2022,3442.85790019
+"Germany",2013,4257.76576486
+"Germany",2014,4067.84362332
+"Germany",2015,4214.68355398
+"Germany",2016,4086.97569817
+"Germany",2017,4062.72855593
+"Germany",2018,4087.86378669
+"Germany",2019,3956.57335855
+"Germany",2020,4040.69426881
+"Germany",2021,3969.07940035
+"Germany",2022,4211.62087857
+"Liechtenstein",2013,3468.05608618
+"Liechtenstein",2014,3407.9729237
+"Liechtenstein",2015,3334.77360294
+"Liechtenstein",2016,3289.17246311
+"Liechtenstein",2017,3218.4351299
+"Liechtenstein",2018,3166.82832557
+"Liechtenstein",2019,3121.35922108
+"Liechtenstein",2020,3635.9058058
+"Liechtenstein",2021,3333.7291364
+"Liechtenstein",2022,3121.37330465
+"Luxembourg",2013,3993.86334865
+"Luxembourg",2014,3862.71869823
+"Luxembourg",2015,3853.86579044
+"Luxembourg",2016,3716.93001055
+"Luxembourg",2017,3911.33909044
+"Luxembourg",2018,3758.53161633
+"Luxembourg",2019,3697.00902688
+"Luxembourg",2020,3792.94897701
+"Luxembourg",2021,3635.61883381
+"Luxembourg",2022,3497.18776019
+"Monaco",2013,2620.7224008
+"Monaco",2014,2609.77492982
+"Monaco",2015,2543.38732019
+"Monaco",2016,2456.98511381
+"Monaco",2017,2389.40405966
+"Monaco",2018,2334.12725379
+"Monaco",2019,2316.05285117
+"Monaco",2020,2325.17519565
+"Monaco",2021,2599.39215063
+"Monaco",2022,2421.12974616
+"Netherlands",2013,3922.54565634
+"Netherlands",2014,3780.40233928
+"Netherlands",2015,3863.63129583
+"Netherlands",2016,3831.64745633
+"Netherlands",2017,3763.33060132
+"Netherlands",2018,3751.64787566
+"Netherlands",2019,3638.13499133
+"Netherlands",2020,3919.10644505
+"Netherlands",2021,3925.38803792
+"Netherlands",2022,3718.99801
+"Switzerland",2013,3393.06368157
+"Switzerland",2014,3249.20575837
+"Switzerland",2015,3338.52198176
+"Switzerland",2016,3130.69306431
+"Switzerland",2017,3140.27178506
+"Switzerland",2018,3087.85927913
+"Switzerland",2019,3019.29882119
+"Switzerland",2020,3271.26867476
+"Switzerland",2021,3062.86678383
+"Switzerland",2022,3214.64353535
+"Americas",2013,5641.77555469
+"Americas",2014,5581.11731915
+"Americas",2015,5559.5927584
+"Americas",2016,5568.90310282
+"Americas",2017,5541.96291592
+"Americas",2018,5466.57927233
+"Americas",2019,5406.15686216
+"Americas",2020,6320.93712245
+"Americas",2021,6811.46327332
+"Americas",2022,5741.50492939
+"Caribbean",2013,6962.0699573
+"Caribbean",2014,6985.13771766
+"Caribbean",2015,6969.94375557
+"Caribbean",2016,7041.18778432
+"Caribbean",2017,7061.55651777
+"Caribbean",2018,6932.68975339
+"Caribbean",2019,6951.87093728
+"Caribbean",2020,7169.12781099
+"Caribbean",2021,8548.379957
+"Caribbean",2022,6964.93529109
+"Anguilla",2013,5437.83421366
+"Anguilla",2014,5407.69976729
+"Anguilla",2015,5396.08564013
+"Anguilla",2016,5337.0130186
+"Anguilla",2017,5534.87019097
+"Anguilla",2018,5177.70088058
+"Anguilla",2019,5096.39526554
+"Anguilla",2020,4994.13420508
+"Anguilla",2021,5122.43186107
+"Anguilla",2022,4791.34825557
+"Antigua and Barbuda",2013,5467.41622307
+"Antigua and Barbuda",2014,5540.45583932
+"Antigua and Barbuda",2015,5553.34426676
+"Antigua and Barbuda",2016,5521.65971678
+"Antigua and Barbuda",2017,5488.3230162
+"Antigua and Barbuda",2018,5444.02346739
+"Antigua and Barbuda",2019,5426.49756373
+"Antigua and Barbuda",2020,5422.25586932
+"Antigua and Barbuda",2021,5430.67062516
+"Antigua and Barbuda",2022,5290.28658116
+"Aruba",2013,7002.93185666
+"Aruba",2014,6891.28609281
+"Aruba",2015,6822.95406101
+"Aruba",2016,6756.3151467
+"Aruba",2017,6725.41758618
+"Aruba",2018,6549.55279685
+"Aruba",2019,6477.7942009
+"Aruba",2020,6909.7658777
+"Aruba",2021,8200.01839679
+"Aruba",2022,6451.80893942
+"Bahamas",2013,6624.60077083
+"Bahamas",2014,6586.56392525
+"Bahamas",2015,6668.12477844
+"Bahamas",2016,6608.20938895
+"Bahamas",2017,6624.27299793
+"Bahamas",2018,6616.13178649
+"Bahamas",2019,7514.15802386
+"Bahamas",2020,7246.41589138
+"Bahamas",2021,8511.76429594
+"Bahamas",2022,6423.43809937
+"Barbados",2013,6257.74988941
+"Barbados",2014,6210.7671909
+"Barbados",2015,6164.2586021
+"Barbados",2016,6115.88729069
+"Barbados",2017,6085.16650893
+"Barbados",2018,6023.7769764
+"Barbados",2019,5974.65648663
+"Barbados",2020,5905.68605558
+"Barbados",2021,5968.28273977
+"Barbados",2022,6596.89536802
+"Bonaire, Sint Eustatius and Saba",2013,6132.997668
+"Bonaire, Sint Eustatius and Saba",2014,5764.06388286
+"Bonaire, Sint Eustatius and Saba",2015,5391.44547059
+"Bonaire, Sint Eustatius and Saba",2016,5587.00753567
+"Bonaire, Sint Eustatius and Saba",2017,5456.91329945
+"Bonaire, Sint Eustatius and Saba",2018,5715.51167675
+"Bonaire, Sint Eustatius and Saba",2019,5636.32734798
+"Bonaire, Sint Eustatius and Saba",2020,5658.33183514
+"Bonaire, Sint Eustatius and Saba",2021,5363.13680797
+"Bonaire, Sint Eustatius and Saba",2022,5199.8109339
+"British Virgin Islands",2013,6080.3158991
+"British Virgin Islands",2014,6052.29180582
+"British Virgin Islands",2015,6038.27197597
+"British Virgin Islands",2016,6005.18487599
+"British Virgin Islands",2017,6311.58320858
+"British Virgin Islands",2018,5957.19103997
+"British Virgin Islands",2019,5902.89918032
+"British Virgin Islands",2020,5881.51669957
+"British Virgin Islands",2021,6875.93701129
+"British Virgin Islands",2022,5741.82933628
+"Cayman Islands",2013,5297.77714804
+"Cayman Islands",2014,5200.77676658
+"Cayman Islands",2015,5089.37629555
+"Cayman Islands",2016,4983.56147394
+"Cayman Islands",2017,4878.64643965
+"Cayman Islands",2018,4785.19267153
+"Cayman Islands",2019,4693.64844608
+"Cayman Islands",2020,4618.75572134
+"Cayman Islands",2021,4587.67609027
+"Cayman Islands",2022,4319.26093617
+"Cuba",2013,5145.79315943
+"Cuba",2014,5244.22269803
+"Cuba",2015,5282.07173625
+"Cuba",2016,5366.29273517
+"Cuba",2017,5514.85609594
+"Cuba",2018,5430.25975769
+"Cuba",2019,5435.22985157
+"Cuba",2020,5468.42950305
+"Cuba",2021,7941.23863465
+"Cuba",2022,5348.0302909
+"Curacao",2013,6099.77691345
+"Curacao",2014,6023.94753535
+"Curacao",2015,5966.79135088
+"Curacao",2016,6039.89354277
+"Curacao",2017,5989.14880948
+"Curacao",2018,5955.60876415
+"Curacao",2019,5948.4960249
+"Curacao",2020,5949.09244374
+"Curacao",2021,6428.50361986
+"Curacao",2022,5831.15098428
+"Dominica",2013,8705.4732173
+"Dominica",2014,8714.35044646
+"Dominica",2015,9172.35531681
+"Dominica",2016,8702.80681028
+"Dominica",2017,9690.72369048
+"Dominica",2018,8601.13771353
+"Dominica",2019,8630.1439806
+"Dominica",2020,8643.6632763
+"Dominica",2021,9688.74936307
+"Dominica",2022,8738.39329773
+"Dominican Republic",2013,6793.44569296
+"Dominican Republic",2014,6746.64408906
+"Dominican Republic",2015,6825.03593353
+"Dominican Republic",2016,6859.1139022
+"Dominican Republic",2017,6672.04682202
+"Dominican Republic",2018,6639.69674663
+"Dominican Republic",2019,6851.30577947
+"Dominican Republic",2020,7181.5327298
+"Dominican Republic",2021,7659.65559748
+"Dominican Republic",2022,6363.18127984
+"Grenada",2013,6292.57551222
+"Grenada",2014,6278.67992766
+"Grenada",2015,6280.27459338
+"Grenada",2016,6293.09965162
+"Grenada",2017,6310.2854216
+"Grenada",2018,6322.47574449
+"Grenada",2019,6319.68806748
+"Grenada",2020,6301.2272921
+"Grenada",2021,6564.72525575
+"Grenada",2022,6246.43764862
+"Guadeloupe",2013,4006.03277043
+"Guadeloupe",2014,3878.68462866
+"Guadeloupe",2015,3851.39283404
+"Guadeloupe",2016,3730.01839917
+"Guadeloupe",2017,3661.72527862
+"Guadeloupe",2018,3834.03205037
+"Guadeloupe",2019,3809.86932236
+"Guadeloupe",2020,4035.93894833
+"Guadeloupe",2021,4946.5529434
+"Guadeloupe",2022,3954.7394562
+"Haiti",2013,12817.38556334
+"Haiti",2014,12651.229237
+"Haiti",2015,12536.71883172
+"Haiti",2016,12491.82452021
+"Haiti",2017,12244.05131885
+"Haiti",2018,12136.43404218
+"Haiti",2019,12022.15600754
+"Haiti",2020,12816.05911415
+"Haiti",2021,13789.6339059
+"Haiti",2022,12655.20342221
+"Jamaica",2013,8071.03376505
+"Jamaica",2014,8124.09232645
+"Jamaica",2015,8214.35710762
+"Jamaica",2016,8313.96920087
+"Jamaica",2017,8418.05690954
+"Jamaica",2018,8548.52000705
+"Jamaica",2019,8578.9963363
+"Jamaica",2020,8635.24332668
+"Jamaica",2021,10672.3408063
+"Jamaica",2022,8606.99627842
+"Martinique",2013,3610.83455585
+"Martinique",2014,3598.93668116
+"Martinique",2015,3568.02873549
+"Martinique",2016,3646.74068081
+"Martinique",2017,3584.29869964
+"Martinique",2018,3548.58161659
+"Martinique",2019,3556.12253106
+"Martinique",2020,4161.66373248
+"Martinique",2021,5255.85587763
+"Martinique",2022,3969.06114221
+"Montserrat",2013,7017.74510862
+"Montserrat",2014,6969.09398924
+"Montserrat",2015,6925.21557882
+"Montserrat",2016,6877.50203098
+"Montserrat",2017,6825.82705529
+"Montserrat",2018,6756.80620327
+"Montserrat",2019,6676.10945709
+"Montserrat",2020,6702.07192498
+"Montserrat",2021,6517.77139376
+"Montserrat",2022,6444.02582882
+"Puerto Rico",2013,4172.01201852
+"Puerto Rico",2014,4278.57162701
+"Puerto Rico",2015,4050.08005741
+"Puerto Rico",2016,4162.66768562
+"Puerto Rico",2017,4554.73825708
+"Puerto Rico",2018,3916.30920839
+"Puerto Rico",2019,3799.49098902
+"Puerto Rico",2020,4270.79646284
+"Puerto Rico",2021,4354.43857081
+"Puerto Rico",2022,4464.38146142
+"Saint-Barthelemy",2013,3436.48265164
+"Saint-Barthelemy",2014,3332.98641414
+"Saint-Barthelemy",2015,3275.74722247
+"Saint-Barthelemy",2016,3217.06213348
+"Saint-Barthelemy",2017,3591.28631656
+"Saint-Barthelemy",2018,3071.39464075
+"Saint-Barthelemy",2019,3001.04818949
+"Saint-Barthelemy",2020,2922.64029655
+"Saint-Barthelemy",2021,2883.2179603
+"Saint-Barthelemy",2022,2853.20072064
+"Saint Kitts and Nevis",2013,8645.99740161
+"Saint Kitts and Nevis",2014,8679.56234134
+"Saint Kitts and Nevis",2015,8687.75310644
+"Saint Kitts and Nevis",2016,8680.57621729
+"Saint Kitts and Nevis",2017,8648.84175691
+"Saint Kitts and Nevis",2018,8615.90708758
+"Saint Kitts and Nevis",2019,8509.64281779
+"Saint Kitts and Nevis",2020,8761.81169073
+"Saint Kitts and Nevis",2021,10403.90820775
+"Saint Kitts and Nevis",2022,9547.0965077
+"Saint Lucia",2013,7895.83771224
+"Saint Lucia",2014,7915.42904345
+"Saint Lucia",2015,7787.20689085
+"Saint Lucia",2016,7979.37917001
+"Saint Lucia",2017,7990.46189103
+"Saint Lucia",2018,7923.81253194
+"Saint Lucia",2019,8126.70243325
+"Saint Lucia",2020,8119.4140307
+"Saint Lucia",2021,10909.042348
+"Saint Lucia",2022,7907.07629074
+"Saint Martin (French part)",2013,4556.55573597
+"Saint Martin (French part)",2014,4475.75486585
+"Saint Martin (French part)",2015,4433.54494138
+"Saint Martin (French part)",2016,4409.53179554
+"Saint Martin (French part)",2017,4743.51093961
+"Saint Martin (French part)",2018,4348.18420286
+"Saint Martin (French part)",2019,4324.15033024
+"Saint Martin (French part)",2020,4323.4067706
+"Saint Martin (French part)",2021,4277.37533927
+"Saint Martin (French part)",2022,4267.98321551
+"Saint Vincent and the Grenadines",2013,9167.59245859
+"Saint Vincent and the Grenadines",2014,9053.78635487
+"Saint Vincent and the Grenadines",2015,8985.77338676
+"Saint Vincent and the Grenadines",2016,8943.91333537
+"Saint Vincent and the Grenadines",2017,8747.72148886
+"Saint Vincent and the Grenadines",2018,8735.69633327
+"Saint Vincent and the Grenadines",2019,8727.33009893
+"Saint Vincent and the Grenadines",2020,9882.21094266
+"Saint Vincent and the Grenadines",2021,9792.34608564
+"Saint Vincent and the Grenadines",2022,8631.80276996
+"Sint Maarten (Dutch part)",2013,6495.68460232
+"Sint Maarten (Dutch part)",2014,6320.42149834
+"Sint Maarten (Dutch part)",2015,6241.27926023
+"Sint Maarten (Dutch part)",2016,6220.44882733
+"Sint Maarten (Dutch part)",2017,6433.09596702
+"Sint Maarten (Dutch part)",2018,6370.29296206
+"Sint Maarten (Dutch part)",2019,6381.94881384
+"Sint Maarten (Dutch part)",2020,6791.17259465
+"Sint Maarten (Dutch part)",2021,7162.82547125
+"Sint Maarten (Dutch part)",2022,6140.71205287
+"Trinidad and Tobago",2013,7667.97500307
+"Trinidad and Tobago",2014,7611.1472228
+"Trinidad and Tobago",2015,7621.45606353
+"Trinidad and Tobago",2016,7596.58295367
+"Trinidad and Tobago",2017,7566.45027361
+"Trinidad and Tobago",2018,7687.91634911
+"Trinidad and Tobago",2019,7594.7957623
+"Trinidad and Tobago",2020,7715.39365641
+"Trinidad and Tobago",2021,8792.45667661
+"Trinidad and Tobago",2022,7312.01480395
+"Turks and Caicos Islands",2013,5704.75712767
+"Turks and Caicos Islands",2014,5653.88713323
+"Turks and Caicos Islands",2015,5603.25580786
+"Turks and Caicos Islands",2016,5547.61642811
+"Turks and Caicos Islands",2017,5517.13946195
+"Turks and Caicos Islands",2018,5473.74688376
+"Turks and Caicos Islands",2019,5428.69000175
+"Turks and Caicos Islands",2020,5528.25544815
+"Turks and Caicos Islands",2021,5678.91770558
+"Turks and Caicos Islands",2022,5324.99291675
+"United States Virgin Islands",2013,7375.76049972
+"United States Virgin Islands",2014,7226.53220178
+"United States Virgin Islands",2015,7152.28857676
+"United States Virgin Islands",2016,7075.35829614
+"United States Virgin Islands",2017,7054.48162429
+"United States Virgin Islands",2018,6923.06354429
+"United States Virgin Islands",2019,6825.4826304
+"United States Virgin Islands",2020,6941.32389057
+"United States Virgin Islands",2021,7027.83690632
+"United States Virgin Islands",2022,6764.51613786
+"Central America",2013,6789.48687616
+"Central America",2014,6748.89552348
+"Central America",2015,6733.42447364
+"Central America",2016,6723.05773436
+"Central America",2017,6722.88989395
+"Central America",2018,6670.09935715
+"Central America",2019,6573.3997949
+"Central America",2020,8675.63234733
+"Central America",2021,9281.39429787
+"Central America",2022,6771.74953738
+"Belize",2013,8570.89589216
+"Belize",2014,8495.13460636
+"Belize",2015,8390.40245768
+"Belize",2016,8301.07405986
+"Belize",2017,8198.2028761
+"Belize",2018,8073.31928113
+"Belize",2019,7951.54882096
+"Belize",2020,8740.18186839
+"Belize",2021,9236.94106575
+"Belize",2022,8355.60181102
+"Costa Rica",2013,4167.37202286
+"Costa Rica",2014,4150.73269577
+"Costa Rica",2015,4085.69699213
+"Costa Rica",2016,4234.54180116
+"Costa Rica",2017,4238.38777319
+"Costa Rica",2018,4200.14861568
+"Costa Rica",2019,4133.58819454
+"Costa Rica",2020,4354.9279658
+"Costa Rica",2021,5025.9783431
+"Costa Rica",2022,4523.88967215
+"El Salvador",2013,8160.88599905
+"El Salvador",2014,8203.85490815
+"El Salvador",2015,8299.44067976
+"El Salvador",2016,8310.05726731
+"El Salvador",2017,8283.89711849
+"El Salvador",2018,8144.20949448
+"El Salvador",2019,8062.41911335
+"El Salvador",2020,9276.65603837
+"El Salvador",2021,9417.61275041
+"El Salvador",2022,7946.96485901
+"Guatemala",2013,8330.97873353
+"Guatemala",2014,8317.22564156
+"Guatemala",2015,8348.43364449
+"Guatemala",2016,8216.67922895
+"Guatemala",2017,8047.96927947
+"Guatemala",2018,8141.17069794
+"Guatemala",2019,8093.88703833
+"Guatemala",2020,9498.40904595
+"Guatemala",2021,11453.67345008
+"Guatemala",2022,8490.54413209
+"Honduras",2013,8937.92291999
+"Honduras",2014,8797.76353821
+"Honduras",2015,8643.10840017
+"Honduras",2016,8479.30130263
+"Honduras",2017,8377.46409763
+"Honduras",2018,8273.31390392
+"Honduras",2019,8203.80452755
+"Honduras",2020,9347.7769531
+"Honduras",2021,10530.09145417
+"Honduras",2022,7887.47371846
+"Mexico",2013,6631.13358576
+"Mexico",2014,6593.23032702
+"Mexico",2015,6581.82625604
+"Mexico",2016,6592.97526383
+"Mexico",2017,6625.04359339
+"Mexico",2018,6587.13293448
+"Mexico",2019,6479.38661582
+"Mexico",2020,8875.3593218
+"Mexico",2021,9439.29806166
+"Mexico",2022,6749.33147127
+"Nicaragua",2013,7679.36080244
+"Nicaragua",2014,7587.01363219
+"Nicaragua",2015,7549.73111334
+"Nicaragua",2016,7432.33089697
+"Nicaragua",2017,7354.73053722
+"Nicaragua",2018,7065.61975341
+"Nicaragua",2019,7173.2045292
+"Nicaragua",2020,10070.50522104
+"Nicaragua",2021,10007.3724544
+"Nicaragua",2022,6973.38129424
+"Panama",2013,5223.20472771
+"Panama",2014,5123.84588408
+"Panama",2015,5064.62713234
+"Panama",2016,4995.62987521
+"Panama",2017,4942.0716656
+"Panama",2018,4780.90617863
+"Panama",2019,4674.18360954
+"Panama",2020,5703.27223173
+"Panama",2021,5371.89150265
+"Panama",2022,4377.11095061
+"South America",2013,6299.39963107
+"South America",2014,6183.97078684
+"South America",2015,6070.04701555
+"South America",2016,6123.44366695
+"South America",2017,6013.84973076
+"South America",2018,5899.1470323
+"South America",2019,5853.61453617
+"South America",2020,6717.96207226
+"South America",2021,7499.67844007
+"South America",2022,6302.77007456
+"Argentina",2013,5996.36549632
+"Argentina",2014,5778.61273392
+"Argentina",2015,5638.2493366
+"Argentina",2016,5894.21657727
+"Argentina",2017,5690.73422976
+"Argentina",2018,5577.70627417
+"Argentina",2019,5562.94678668
+"Argentina",2020,6069.14268148
+"Argentina",2021,7035.52776599
+"Argentina",2022,6147.93442336
+"Bolivia (Plurinational State of)",2013,9931.79790231
+"Bolivia (Plurinational State of)",2014,9858.68215375
+"Bolivia (Plurinational State of)",2015,9757.92385688
+"Bolivia (Plurinational State of)",2016,9680.69426464
+"Bolivia (Plurinational State of)",2017,9626.24129875
+"Bolivia (Plurinational State of)",2018,9557.05020457
+"Bolivia (Plurinational State of)",2019,9511.43117614
+"Bolivia (Plurinational State of)",2020,14121.36882034
+"Bolivia (Plurinational State of)",2021,15572.05992809
+"Bolivia (Plurinational State of)",2022,9925.01478164
+"Brazil",2013,6387.78233512
+"Brazil",2014,6289.68828889
+"Brazil",2015,6168.16363106
+"Brazil",2016,6183.11249166
+"Brazil",2017,6051.92536809
+"Brazil",2018,5965.45045939
+"Brazil",2019,5913.59458997
+"Brazil",2020,6714.16748205
+"Brazil",2021,7305.25934608
+"Brazil",2022,6504.11179349
+"Chile",2013,4456.48031225
+"Chile",2014,4395.13705724
+"Chile",2015,4284.61805149
+"Chile",2016,4180.06880106
+"Chile",2017,4070.74898066
+"Chile",2018,4099.12983087
+"Chile",2019,4194.00442398
+"Chile",2020,4597.43883152
+"Chile",2021,4776.2183834
+"Chile",2022,4648.52595349
+"Colombia",2013,5955.09308754
+"Colombia",2014,5932.33274166
+"Colombia",2015,5898.70677798
+"Colombia",2016,5828.99014849
+"Colombia",2017,5729.34079275
+"Colombia",2018,5651.7270951
+"Colombia",2019,5564.83881107
+"Colombia",2020,6663.32040609
+"Colombia",2021,7727.05788733
+"Colombia",2022,5782.59151051
+"Ecuador",2013,5922.20721778
+"Ecuador",2014,5817.06535034
+"Ecuador",2015,5802.39933675
+"Ecuador",2016,5882.49037035
+"Ecuador",2017,5877.85969167
+"Ecuador",2018,5251.41994784
+"Ecuador",2019,5233.76292835
+"Ecuador",2020,8098.76437973
+"Ecuador",2021,7572.15261922
+"Ecuador",2022,5611.11044046
+"Falkland Islands (Malvinas)",2013,5136.15600238
+"Falkland Islands (Malvinas)",2014,5109.29909564
+"Falkland Islands (Malvinas)",2015,5075.17165238
+"Falkland Islands (Malvinas)",2016,5050.68485791
+"Falkland Islands (Malvinas)",2017,5036.82262853
+"Falkland Islands (Malvinas)",2018,5013.59829796
+"Falkland Islands (Malvinas)",2019,4986.2319564
+"Falkland Islands (Malvinas)",2020,4911.76444666
+"Falkland Islands (Malvinas)",2021,4815.60054101
+"Falkland Islands (Malvinas)",2022,4789.74524168
+"French Guiana",2013,5993.02186017
+"French Guiana",2014,5897.20492431
+"French Guiana",2015,5919.89001083
+"French Guiana",2016,5924.40792227
+"French Guiana",2017,5880.95660356
+"French Guiana",2018,5663.17087676
+"French Guiana",2019,5946.67162915
+"French Guiana",2020,5491.36544027
+"French Guiana",2021,7924.79697545
+"French Guiana",2022,5930.70696205
+"Guyana",2013,10648.30367011
+"Guyana",2014,10216.2010049
+"Guyana",2015,9976.34354984
+"Guyana",2016,9768.60607783
+"Guyana",2017,9480.72952981
+"Guyana",2018,9326.7757643
+"Guyana",2019,9199.54859086
+"Guyana",2020,10375.54942958
+"Guyana",2021,13420.82131313
+"Guyana",2022,8774.01403462
+"Paraguay",2013,7124.25966813
+"Paraguay",2014,7069.55242556
+"Paraguay",2015,7068.24748654
+"Paraguay",2016,7072.21289253
+"Paraguay",2017,7116.3324378
+"Paraguay",2018,7030.59696471
+"Paraguay",2019,7022.18260907
+"Paraguay",2020,7583.76697854
+"Paraguay",2021,11171.08043936
+"Paraguay",2022,7901.48528571
+"Peru",2013,6337.04386808
+"Peru",2014,6023.92880428
+"Peru",2015,5822.84250765
+"Peru",2016,5734.93052974
+"Peru",2017,5743.26276048
+"Peru",2018,5725.7436235
+"Peru",2019,5649.37061098
+"Peru",2020,6888.94016654
+"Peru",2021,8387.18958954
+"Peru",2022,5685.06370515
+"Suriname",2013,8952.11004463
+"Suriname",2014,8828.41988211
+"Suriname",2015,8695.56517328
+"Suriname",2016,8415.67438001
+"Suriname",2017,8232.92607789
+"Suriname",2018,8105.1007897
+"Suriname",2019,7920.72560086
+"Suriname",2020,7477.30392557
+"Suriname",2021,9733.54936899
+"Suriname",2022,7099.84892196
+"Uruguay",2013,5485.19576237
+"Uruguay",2014,5389.64337466
+"Uruguay",2015,5367.6532673
+"Uruguay",2016,5344.59855735
+"Uruguay",2017,5233.49319127
+"Uruguay",2018,5275.18181585
+"Uruguay",2019,5292.0611524
+"Uruguay",2020,4953.29249589
+"Uruguay",2021,6259.33256274
+"Uruguay",2022,5755.47821653
+"Venezuela (Bolivarian Republic of)",2013,7197.36369325
+"Venezuela (Bolivarian Republic of)",2014,7296.79096066
+"Venezuela (Bolivarian Republic of)",2015,7216.26305549
+"Venezuela (Bolivarian Republic of)",2016,7667.33357783
+"Venezuela (Bolivarian Republic of)",2017,7730.73685471
+"Venezuela (Bolivarian Republic of)",2018,7395.32764762
+"Venezuela (Bolivarian Republic of)",2019,7347.39393468
+"Venezuela (Bolivarian Republic of)",2020,7636.18206622
+"Venezuela (Bolivarian Republic of)",2021,8201.66648056
+"Venezuela (Bolivarian Republic of)",2022,7432.86678638
+"Northern America",2013,4639.98782256
+"Northern America",2014,4611.1650555
+"Northern America",2015,4658.85686134
+"Northern America",2016,4650.91156829
+"Northern America",2017,4669.04694212
+"Northern America",2018,4617.68914818
+"Northern America",2019,4561.25594105
+"Northern America",2020,5308.69226624
+"Northern America",2021,5495.07561257
+"Northern America",2022,4928.75793803
+"Bermuda",2013,4379.22129804
+"Bermuda",2014,4308.25238404
+"Bermuda",2015,4254.39061599
+"Bermuda",2016,4200.5456559
+"Bermuda",2017,4117.34322198
+"Bermuda",2018,4002.80222806
+"Bermuda",2019,3902.85313124
+"Bermuda",2020,3825.44413815
+"Bermuda",2021,3720.7412167
+"Bermuda",2022,3608.13596362
+"Canada",2013,3667.82239279
+"Canada",2014,3651.69025749
+"Canada",2015,3625.27332997
+"Canada",2016,3580.43773856
+"Canada",2017,3614.76062299
+"Canada",2018,3609.10124774
+"Canada",2019,3491.22883623
+"Canada",2020,3702.73949962
+"Canada",2021,3598.61742203
+"Canada",2022,3859.03784479
+"Greenland",2013,9187.04937699
+"Greenland",2014,9048.39662853
+"Greenland",2015,8979.47197908
+"Greenland",2016,8902.24139513
+"Greenland",2017,8903.3316702
+"Greenland",2018,8919.69742489
+"Greenland",2019,8969.93458156
+"Greenland",2020,9021.74843612
+"Greenland",2021,9076.21811902
+"Greenland",2022,9074.64492847
+"Saint Pierre and Miquelon",2013,5964.76411308
+"Saint Pierre and Miquelon",2014,5982.17727618
+"Saint Pierre and Miquelon",2015,5985.6588504
+"Saint Pierre and Miquelon",2016,5973.80391741
+"Saint Pierre and Miquelon",2017,5954.70999192
+"Saint Pierre and Miquelon",2018,5934.89928713
+"Saint Pierre and Miquelon",2019,5920.7517503
+"Saint Pierre and Miquelon",2020,5914.42749779
+"Saint Pierre and Miquelon",2021,5893.3527361
+"Saint Pierre and Miquelon",2022,5880.42337051
+"United States of America",2013,4754.76968335
+"United States of America",2014,4724.58986498
+"United States of America",2015,4781.34055973
+"United States of America",2016,4777.86887479
+"United States of America",2017,4794.43953167
+"United States of America",2018,4738.02578502
+"United States of America",2019,4689.39322931
+"United States of America",2020,5504.90821408
+"United States of America",2021,5725.71619254
+"United States of America",2022,5058.65310321
+"Oceania",2013,4863.78627581
+"Oceania",2014,4877.32057561
+"Oceania",2015,4830.95396527
+"Oceania",2016,4744.99678579
+"Oceania",2017,4764.78727914
+"Oceania",2018,4606.15430408
+"Oceania",2019,4597.53526686
+"Oceania",2020,4498.29699162
+"Oceania",2021,4651.92558332
+"Oceania",2022,4875.28680345
+"Australia",2013,3416.08588751
+"Australia",2014,3433.10320536
+"Australia",2015,3403.25523011
+"Australia",2016,3336.75692606
+"Australia",2017,3361.96629456
+"Australia",2018,3181.37659075
+"Australia",2019,3184.01726651
+"Australia",2020,3050.23484304
+"Australia",2021,3079.57294628
+"Australia",2022,3404.98938895
+"New Zealand",2013,3741.09459024
+"New Zealand",2014,3812.81507159
+"New Zealand",2015,3761.09446407
+"New Zealand",2016,3607.90980004
+"New Zealand",2017,3751.82161833
+"New Zealand",2018,3648.81921243
+"New Zealand",2019,3651.0486949
+"New Zealand",2020,3367.96825006
+"New Zealand",2021,3483.94150485
+"New Zealand",2022,3967.39213718
+"Melanesia",2013,12146.93162197
+"Melanesia",2014,12019.6951524
+"Melanesia",2015,11897.57197369
+"Melanesia",2016,11767.86707214
+"Melanesia",2017,11622.26889245
+"Melanesia",2018,11536.60963549
+"Melanesia",2019,11438.03947123
+"Melanesia",2020,12000.51460099
+"Melanesia",2021,12620.41621386
+"Melanesia",2022,11625.64187541
+"Fiji",2013,12720.89041785
+"Fiji",2014,12677.26467902
+"Fiji",2015,12791.72284636
+"Fiji",2016,12576.05156198
+"Fiji",2017,12191.25889881
+"Fiji",2018,12273.16041372
+"Fiji",2019,12221.2754875
+"Fiji",2020,12213.6571756
+"Fiji",2021,14557.15682614
+"Fiji",2022,12011.31483576
+"New Caledonia",2013,5640.69990201
+"New Caledonia",2014,5559.86217231
+"New Caledonia",2015,5494.11638121
+"New Caledonia",2016,5425.04209427
+"New Caledonia",2017,5352.10287097
+"New Caledonia",2018,5296.0937022
+"New Caledonia",2019,5332.50072078
+"New Caledonia",2020,6016.5133886
+"New Caledonia",2021,5403.3011685
+"New Caledonia",2022,5322.71568182
+"Papua New Guinea",2013,12713.24137427
+"Papua New Guinea",2014,12568.58357313
+"Papua New Guinea",2015,12415.11169723
+"Papua New Guinea",2016,12302.67565112
+"Papua New Guinea",2017,12185.91863453
+"Papua New Guinea",2018,12074.81791186
+"Papua New Guinea",2019,11971.37202387
+"Papua New Guinea",2020,12538.57687788
+"Papua New Guinea",2021,13148.47443966
+"Papua New Guinea",2022,12301.58594296
+"Solomon Islands",2013,10224.37436108
+"Solomon Islands",2014,10226.41812494
+"Solomon Islands",2015,10074.66824365
+"Solomon Islands",2016,9993.64323606
+"Solomon Islands",2017,9922.14186365
+"Solomon Islands",2018,9848.68639373
+"Solomon Islands",2019,9763.21484473
+"Solomon Islands",2020,10513.14800707
+"Solomon Islands",2021,10834.62780577
+"Solomon Islands",2022,9547.98824736
+"Vanuatu",2013,9523.88160131
+"Vanuatu",2014,9467.86792055
+"Vanuatu",2015,9399.89549089
+"Vanuatu",2016,9281.01918358
+"Vanuatu",2017,9217.06054913
+"Vanuatu",2018,9146.28667737
+"Vanuatu",2019,9055.44125926
+"Vanuatu",2020,9552.09124254
+"Vanuatu",2021,9786.99834195
+"Vanuatu",2022,8743.92539517
+"Micronesia",2013,8205.8756606
+"Micronesia",2014,8155.85441648
+"Micronesia",2015,8125.79178396
+"Micronesia",2016,8079.04236757
+"Micronesia",2017,8054.19257597
+"Micronesia",2018,8024.7025239
+"Micronesia",2019,7977.4693329
+"Micronesia",2020,8441.73620437
+"Micronesia",2021,8543.17106368
+"Micronesia",2022,7714.36771276
+"Guam",2013,5611.85430311
+"Guam",2014,5593.38144601
+"Guam",2015,5588.44545261
+"Guam",2016,5588.54672657
+"Guam",2017,5583.4843647
+"Guam",2018,5550.60103277
+"Guam",2019,5522.25906238
+"Guam",2020,5983.75912463
+"Guam",2021,6026.96168338
+"Guam",2022,5359.65326342
+"Kiribati",2013,11138.99628269
+"Kiribati",2014,11150.11039652
+"Kiribati",2015,11164.74841435
+"Kiribati",2016,11177.34369073
+"Kiribati",2017,11181.44943745
+"Kiribati",2018,11171.6342955
+"Kiribati",2019,11144.33897273
+"Kiribati",2020,11928.5566378
+"Kiribati",2021,12984.30431521
+"Kiribati",2022,10966.65642595
+"Marshall Islands",2013,12216.07371438
+"Marshall Islands",2014,12134.60965235
+"Marshall Islands",2015,12031.93814078
+"Marshall Islands",2016,11931.6340348
+"Marshall Islands",2017,11823.4737711
+"Marshall Islands",2018,11716.19901302
+"Marshall Islands",2019,11627.99178039
+"Marshall Islands",2020,12386.00718881
+"Marshall Islands",2021,12319.20813124
+"Marshall Islands",2022,11222.86872552
+"Micronesia (Fed. States of)",2013,12059.49405659
+"Micronesia (Fed. States of)",2014,11990.5205303
+"Micronesia (Fed. States of)",2015,11965.68223644
+"Micronesia (Fed. States of)",2016,11824.18699452
+"Micronesia (Fed. States of)",2017,11715.25324958
+"Micronesia (Fed. States of)",2018,11614.45818987
+"Micronesia (Fed. States of)",2019,11461.11361442
+"Micronesia (Fed. States of)",2020,11955.39724566
+"Micronesia (Fed. States of)",2021,11689.52560787
+"Micronesia (Fed. States of)",2022,11006.86145741
+"Nauru",2013,15197.81162273
+"Nauru",2014,15100.24020805
+"Nauru",2015,15062.69533014
+"Nauru",2016,14982.545302
+"Nauru",2017,14895.44588229
+"Nauru",2018,14783.37514936
+"Nauru",2019,14656.92650487
+"Nauru",2020,14555.52305519
+"Nauru",2021,14794.26314145
+"Nauru",2022,14246.64965347
+"Northern Mariana Islands",2013,5596.93653572
+"Northern Mariana Islands",2014,5632.35484902
+"Northern Mariana Islands",2015,5640.27753776
+"Northern Mariana Islands",2016,5624.88285198
+"Northern Mariana Islands",2017,5588.06891645
+"Northern Mariana Islands",2018,5548.48001141
+"Northern Mariana Islands",2019,5410.47302058
+"Northern Mariana Islands",2020,5326.08364501
+"Northern Mariana Islands",2021,5264.60409674
+"Northern Mariana Islands",2022,5095.98334324
+"Palau",2013,9903.32653796
+"Palau",2014,9835.99368519
+"Palau",2015,9815.90762334
+"Palau",2016,9826.03193259
+"Palau",2017,9840.78832896
+"Palau",2018,9863.45589412
+"Palau",2019,9873.73968325
+"Palau",2020,10055.36534325
+"Palau",2021,10170.91105554
+"Palau",2022,9946.3350848
+"Polynesia",2013,6235.89846415
+"Polynesia",2014,6169.30974042
+"Polynesia",2015,6102.95652889
+"Polynesia",2016,6031.98959161
+"Polynesia",2017,5950.64028858
+"Polynesia",2018,5874.45403285
+"Polynesia",2019,5895.83388206
+"Polynesia",2020,5978.64653709
+"Polynesia",2021,6504.03222557
+"Polynesia",2022,5518.79852595
+"American Samoa",2013,8087.72946411
+"American Samoa",2014,8076.38676472
+"American Samoa",2015,8052.10946926
+"American Samoa",2016,8018.86520887
+"American Samoa",2017,7934.75779438
+"American Samoa",2018,7906.3935067
+"American Samoa",2019,7897.20843828
+"American Samoa",2020,7901.53968862
+"American Samoa",2021,7872.80097399
+"American Samoa",2022,7845.06459207
+"Cook Islands",2013,7388.51969627
+"Cook Islands",2014,7271.22817586
+"Cook Islands",2015,7169.52393737
+"Cook Islands",2016,7088.80200036
+"Cook Islands",2017,7005.12382293
+"Cook Islands",2018,6936.26461018
+"Cook Islands",2019,6872.5859396
+"Cook Islands",2020,6898.72638536
+"Cook Islands",2021,6854.9683868
+"Cook Islands",2022,6598.49125493
+"French Polynesia",2013,3629.6490067
+"French Polynesia",2014,3550.73705205
+"French Polynesia",2015,3483.18433352
+"French Polynesia",2016,3407.22433491
+"French Polynesia",2017,3331.96964045
+"French Polynesia",2018,3261.02583534
+"French Polynesia",2019,3191.49668356
+"French Polynesia",2020,3451.41122989
+"French Polynesia",2021,4563.4579545
+"French Polynesia",2022,2979.59773446
+"Niue",2013,10349.76176189
+"Niue",2014,10222.49472963
+"Niue",2015,10106.56814569
+"Niue",2016,9996.87158589
+"Niue",2017,9887.1334018
+"Niue",2018,9806.07972463
+"Niue",2019,9719.46274299
+"Niue",2020,9629.23119695
+"Niue",2021,9610.75868369
+"Niue",2022,9433.47082384
+"Samoa",2013,8666.27535552
+"Samoa",2014,8711.08181885
+"Samoa",2015,8751.7120536
+"Samoa",2016,8779.65305668
+"Samoa",2017,8784.88941188
+"Samoa",2018,8748.1668251
+"Samoa",2019,9062.25833968
+"Samoa",2020,9064.07567182
+"Samoa",2021,8813.43373864
+"Samoa",2022,8476.27022813
+"Tokelau",2013,6547.60653395
+"Tokelau",2014,6442.95648636
+"Tokelau",2015,6319.85980839
+"Tokelau",2016,6204.59600907
+"Tokelau",2017,6136.76222498
+"Tokelau",2018,6040.86829461
+"Tokelau",2019,5933.38186406
+"Tokelau",2020,5846.99138112
+"Tokelau",2021,5799.13282489
+"Tokelau",2022,5714.19221094
+"Tonga",2013,8411.20499302
+"Tonga",2014,8367.03970009
+"Tonga",2015,8298.65562276
+"Tonga",2016,8244.93666914
+"Tonga",2017,8182.61882487
+"Tonga",2018,8128.27869279
+"Tonga",2019,8061.80205743
+"Tonga",2020,8007.90985959
+"Tonga",2021,8215.38832645
+"Tonga",2022,7853.2544908
+"Tuvalu",2013,12052.69807866
+"Tuvalu",2014,11994.17554655
+"Tuvalu",2015,11953.26348633
+"Tuvalu",2016,11877.74054983
+"Tuvalu",2017,11789.38031602
+"Tuvalu",2018,11694.47579317
+"Tuvalu",2019,11539.86506706
+"Tuvalu",2020,11378.39102592
+"Tuvalu",2021,11708.38494756
+"Tuvalu",2022,11061.66383819
+"Wallis and Futuna Islands",2013,5503.08190243
+"Wallis and Futuna Islands",2014,5445.54947647
+"Wallis and Futuna Islands",2015,5374.00996779
+"Wallis and Futuna Islands",2016,5334.12840459
+"Wallis and Futuna Islands",2017,5298.81837537
+"Wallis and Futuna Islands",2018,5240.51170795
+"Wallis and Futuna Islands",2019,5141.01785857
+"Wallis and Futuna Islands",2020,5067.55914951
+"Wallis and Futuna Islands",2021,5392.58736071
+"Wallis and Futuna Islands",2022,4925.82830721

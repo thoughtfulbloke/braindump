@@ -1,0 +1,336 @@
+---
+date: last-modified
+author: "David Hood"
+title: "Thoughts on the counterfactual"
+format: gfm
+---
+
+```{r}
+library(countrycode)
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+library(ggforce)
+library(lubridate)
+library(tidyr)
+```
+
+Some preliminary notes, in case it is useful to others, about what countries make a useful counter-factual (in practice rather than in theory) to NZ if it had taken a different approach.
+
+This is some exploratory thinking from me, shared as of mid-Sep 2024. Exploratory, as in exploring what the applicable context of data is ("what does it represent"). Thinking, as in my thoughts may develop more through discussion and introspection. Shared, as in sources approaches or contexts might be helpful for others.
+
+## Why now?
+
+With the release of the UN Population prospects 2024, there are single age death rates for 2013-2022 that can be combined with the WHO standard single age 0-100 population 2000-2025 to make consistent annual deaths if every country's population had been the same size and age composition.
+
+Noting the caveat that these are estimates- while better data is available from the 30 or so countries that publish annual death rates by age, for more than 100 other countries this is the best data there is.
+
+In this particular case, I am getting the death rates via the WPP2024 R package available on github, and the mxB1 table within it https://github.com/PPgp/wpp2024
+
+To get a standard number of deaths for each country, I am using the World (WHO 2000-2025) Standard population https://seer.cancer.gov/stdpopulations/world.who.html as an age distribution suited to the whole world.
+
+As some people do not use R, I am make the csv file of age standardised annual deaths available in this repo as who00to25ASM.csv.
+
+From the standardised deaths, I am calculating the excess as being 100 \* sum(actual 2020-2022)/ sum(expected 2020-22). Where expected is based on the linear trend for 2013-2019. While a standard approach, some countries had unusual events in this baseline period. In particular South Sudan had a civil war from 2013-2020, which affects comparisons of all cause mortality between 2013-2019 and 2020-2022. Anytime the focus is on individual countries rather than the all country aggregate, thought should be given to known mass casualty events occurring in the baseline (South Sudan) or Covid era (invasion of Ukraine).
+
+The multi-country excess figures can be compared with the Gobal Health Security Index raw data for the category "SUFFICIENT & ROBUST HEALTH SECTOR TO TREAT THE SICK & PROTECT HEALTH WORKERS" to see what countries are similar to NZ in "ability to treat" had NZ take that covid strategy instead of a biosecurity approach.
+
+https://ghsindex.org
+
+It can also be compared to the general health speading per capita (USD) data for 2021 from the World Bank for a parallel measure of similarity.
+
+https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?locations=1W
+
+And these two measures can be compared to see which is a better correlation to overall pandemic outcome 2020-2022 (as multiple Asia-Pacific countries delayed covid until 2022 it seems better to include 2022, rather than just 2020 & 2021).
+
+### Excess
+
+```{r}
+# table of standard deaths
+stdth <- read.csv("who00to25ASM.csv")
+exceed <- function(x, mortality=stdth){
+  region = mortality |> filter(name==x)
+  lmod <- lm(stTot ~ Year, data = region |> 
+               filter(Year < 2020))
+  region$expected = lmod$coefficients[1] +
+    lmod$coefficients[2] * region$Year
+  return(sum(region$stTot[8:10])/sum(region$expected[8:10]))
+}
+excess <- sapply(unique(stdth$name), exceed)
+ex_asm <- data.frame(name=unique(stdth$name),
+           excess = 100*unname(excess)-100) |> 
+  slice(36:n()) |> #first 35 are regions not countries
+  mutate(iso3 = countrycode(sourcevar=name,
+                           origin='country.name',
+                           destination = 'iso3c',
+                           warn=FALSE)) |> 
+  filter(!is.na(iso3)) |> 
+  rename(WPPCountry = name)
+
+
+```
+
+## Global Health Security Index
+
+```{r}
+GHSI <- read.csv("GHSI/2021-GHS-Index-raw_data.csv") |> 
+  filter(Year==2021) |> 
+  select(HSICountry = Country,
+         robusthealth = X4..SUFFICIENT...ROBUST.HEALTH.SECTOR.TO.TREAT.THE.SICK...PROTECT.HEALTH.WORKERS) |> 
+  mutate(iso3 = countrycode(sourcevar=HSICountry,
+                           origin='country.name',
+                           destination = 'iso3c'))
+
+```
+
+Countries near to NZ in robust health system (from higher to lower) are Croatia (51.4), Serbia (50.9), Switzerland (50.9), Brazil (50.3), Estonia (49.4), Ukraine (49.1, not not intending to use in any final analysis due to Russian invasion affecting death rates), New Zealand (48.9), Colombia (48.5), Moldova (48.3), Romania (47.9), Nicaragua (47.5), Albania (47.4), Singapore (47.3), Jordan (47.1), Liechtenstein (46.6), and Philippines (46.5).
+
+## World Bank Health Spending per capita
+
+```{r}
+wb <- read.csv("WorldBankHperCapUSD/API_SH/API_SH.XPD.CHEX.PC.CD_DS2_en_csv_v2_3401783.csv", skip=4) |> 
+  select(WBCountry = Country.Name,
+         iso3 = Country.Code,
+         percap = X2021) |> 
+  filter(!is.na(percap))
+```
+
+Nearby countries in health spending per capita in 2021 (and acknowledging that many countries had covid response spending not included in the health budget, but this is checking the health system) include, from most to least: Germany (6626.0049), Netherlands (6539.0000), Austria (6505.0000), Canada (6470.0679), United Kingdom (5738.4849), Belgium (5680.2314), Finland (5488.0000), France (5380.8750), New Zealand (4906.0708), Japan (4347.0000), Israel (4339.0000), San Marino (4131.9419), Singapore (3969.8909), Malta (3642.0000), Andorra (3505.9915), Italy (3350.0000) Korea, Rep. (3260.4487), Spain (3234.2930)
+
+## how well do they match
+
+As well as focus on the near neighbours we can ask how well each metric matches covid era all cause mortality.
+
+### Health Security
+
+```{r}
+ex_ghsi <- ex_asm |> 
+  inner_join(GHSI, by = join_by(iso3))
+robslope <- unname((lm(excess ~ robusthealth, data=ex_ghsi))[["coefficients"]][2])
+ggplot(ex_ghsi, aes(x=robusthealth, y=excess)) + 
+  geom_smooth(method="lm", formula = 'y ~ x') +
+  geom_point(alpha=0.3) + theme_minimal() +
+  labs(x="Robust health sector", y="excess mortality(%)")
+```
+
+There is not a lot of change in excess across the data of (aggregate) access to treatment scores. While the normal take-home might be that this is not a very good variable for predicting excess (it even rises), for the purposes of establishing a counter-factual it does mean that a very broad range of countries give similar results, so the pool for counter-factuals is quite large with respect to this variable.
+
+### Heath Spending
+
+```{r}
+ex_spnd <- ex_asm |> 
+  inner_join(wb, by = join_by(iso3))
+spnslope <- unname((lm(excess ~ percap, data=ex_spnd))[["coefficients"]][2])
+ggplot(ex_spnd, aes(x=percap, y=excess)) + 
+  geom_smooth(method="lm", formula = 'y ~ x') +
+  geom_point(alpha=0.3) + theme_minimal() +
+  labs(x="USD expenditure per capita", y="excess mortality(%)")
+```
+
+In this graph, there is a much higher range of excess under 2500 USD per person, but from 2500 up the near differences are greater than the general trend, so a broad range of countries are comparable.
+
+So based on that, I think countries with a GHSI acess score in 40-60 and a health spending per capita of 2500+ are broadly similar enough to be a basis for a counterfactual. But that broad statement can be narrowed up.
+
+We can cover off the interaction between these variables- how much venn diagram overlap in results from them (in effect from capturing the same phenomena).
+
+```{r}
+merged <- GHSI |> 
+  inner_join(wb, by = join_by(iso3)) |> 
+  inner_join(ex_asm, by = join_by(iso3))
+model <- lm(excess ~ robusthealth + percap + robusthealth*percap, data=merged)
+merged$expected <- model$fitted.values
+print(model)
+```
+
+The Robust Health system variable has a range from `r min(merged$robusthealth)` to `r max(merged$robusthealth)` (NZ was 48.9), with each unit increase in this variable changing excess mortality by 0.2986.
+
+The Health expenditure per capita variable has a range from `r min(merged$percap)` to `r max(merged$percap)` (NZ was 4906.0708), with each unit increase in this variable changing excess mortality by 0.001822.
+
+As an aside, the interaction variable "more money specifically spent on a robust health system" does lower the amount of excess death in this.
+
+Overall a model based on health system and spending gives New Zealand an expected excess mortality of around 12% rather than an actual of -2%, but that was compared to the outcomes of all 186 countries that data is available.
+
+But that is getting a little sidetracked from the initial plan of identifying strongly matching countries for counterfactuals, and with two variables combined we can think of it as a Cartesian 2 dimensional counterfactual space. Which is a fancy way of saying we can make a graph.
+
+```{r}
+multiple =10.5
+merged |> 
+  mutate(isNZ = ifelse(iso3 == "NZL", 
+                       "is NZ", 
+                       "isn't NZ")) |>
+  ggplot(aes(x=robusthealth, y=percap)) +
+  geom_ellipse(aes(x0 = 48.9, y0 = 4906.0708, 
+                   a = multiple, 
+                   b = multiple*379, 
+                   angle = 0)) +
+  geom_point(aes(colour=isNZ, shape=isNZ)) + theme_minimal() +
+  scale_colour_colorblind()
+  
+```
+
+As in both the individual regressions and the regression with the interaction terms changes on excess of the units (1 USD) on the y axis are much smaller than the units on the x axis (Global Heath Security Robust Health System aggregate score), so I think as I expand the area out to declare things similar it should expand by more on the y axis. Of the differences in impact, I favour the slope of the variables treated independently (capturing everything represented by the variable) rather than attempting to seperate to ineraction term and work with the remainder. Which means each expansion of the ellipse area of comparable countries by 1 point of index should be matched by 379 USD expansion in health spending per capita.
+
+So, based on all that it is reasonable to express a distance from NZ/similar health system limits of square_root((index score-48.9)^2 + ((USD per capita - 4906.0708)/379.2686)^2)
+
+```{r}
+merged <- merged |> 
+  mutate(NZish = ((robusthealth-48.9)^2 + 
+                    ((percap - 4906.0708)/379.2686)^2)^ 0.5)
+
+highlysame <- merged |> arrange(NZish) |> slice(1:21)
+
+merged |> 
+  mutate(likeNZ = ifelse(iso3 %in% highlysame$iso3, 
+                       "like NZ", 
+                       "not like")) |>
+  ggplot(aes(x=robusthealth, y=percap)) +
+  geom_ellipse(aes(x0 = 48.9, y0 = 4906.0708, 
+                   a = multiple, 
+                   b = multiple*379, 
+                   angle = 0)) +
+  geom_point(aes(colour=likeNZ, shape=likeNZ)) + theme_minimal() +
+  scale_colour_colorblind()
+
+```
+
+## How far to go?
+
+While one could include more and more countries that are more and more different to NZ, at some point you are including countries with different enough circumstances to NZ that NZ would never be those countries in this era.
+
+A spatial/numeric way of reasoning this is that the ideal imaginary counterfactual to NZ would have exactly the same health resource as NZ, so in constructing a counter-factual from an ensemble of other countries, at the point you are making the aggregate representation less like New Zealand you should probably have stopped. And you can measure that by how far is the cummulative aggregate mean of the ordered countries from New Zealand.
+
+```{r}
+merged <- merged |> 
+  arrange(NZish) |> 
+  mutate(cmeanrobust = cummean(robusthealth),
+         cmeanUSD = cummean(percap),
+         cdistance = ((cmeanrobust-48.9)^2 + 
+                    ((cmeanUSD - 4906.0708)/379.2686)^2)^ 0.5,
+         countryorder = row_number() -1)
+ggplot(merged, aes(x=countryorder, y=cdistance)) + 
+  geom_point()
+
+```
+Adding more that around 80 countries (based on similarity of health system resources) is only going to make matters worse.
+
+```{r}
+ggplot(merged |> filter(countryorder < 82), aes(x=countryorder, y=cdistance)) + 
+  geom_point()
+```
+Looking at the more detailed less that 81 countries view, there is a group of 18 "similar" countries, then a rise to another plateau to 80. My inclinations would be to potentially use
+
+* group of 18 "very similar" countries for some things.
+* the group of 80 "similar" countries in other cases.
+* if splitting the counterfactual group on another piece of information, go to 80
+* where detailed excess mortality is needed, use the 40 or so of the 80 with detailed national information for death rates by age
+* consider if country aggregate results should be weighted by "similarity to NZ"
+
+
+Just for context the inner-group of 18 is (in order) Singapore, Japan, Ireland, Iceland, Spain, Israel, Austria, Sweden, Estonia, Portugal, Germany, Greece, Czech Republic, Croatia, Italy, Chile, Qatar, Kuwait. With an average excess (UN estimates) of 11% (13% higher than NZ's actual)
+
+```{r}
+highlysame <- merged |> arrange(NZish) |> slice(1:19)
+bitsame <- merged |> arrange(NZish) |> slice(1:81)
+avexhigh <- mean(highlysame$excess[2:19])
+```
+
+## Different strategies
+
+I would describe NZ's strategy of "keep covid out and control incursions with testing, tracing and isolation until widespread vaccination" as a high biosecurity strategy. To my knowledge, this was never a formal government description. I just think there are a lot of parallels to existing expertise and understanding in a high-science agricultural country of keeping out agricultural threats and dealing with incursions with testing, tracing, and isolation. For those reading this who have never been to New Zealand, don't try and bring in an apple with you if you visit.
+
+### Testing
+
+For testing, we know that NZ did not test for covid as much as some places with widespread covid, but did test a lot more in relation to the amount of covid that there was to be found. So a per covid measure is something like the number of tests per the number of cases identified as being from covid (this distinguishes countries not testing from countries testing but not finding) until January 2022 (rapid antigen tests were uncommon for most of 2020 & 2021). This is data available in the Our World in Data (compact dataset) collection at https://docs.owid.io/projects/etl/api/covid/#download-data
+
+```{r}
+owd <- read.csv("compact.csv")
+owsome <- owd |> 
+  select(country, date, total_cases, population, total_tests, code) |> 
+  mutate(data = as.Date(date)) |> 
+  filter(year(date) == 2021) |> 
+  arrange(country, desc(date)) |> 
+  group_by(country,code) |> 
+  slice(1) |> 
+  ungroup() |> 
+  mutate(ratio = total_tests / total_cases,
+         cases_per_million = 1000000*total_cases/population) |> 
+  filter(!is.na(ratio)) |> 
+  rename(owdcountry = country,
+         iso3 = code)
+
+ggplot(owsome, aes(x=ratio)) + geom_histogram(bins=45) +
+  labs(title="All available OWiD countries, total tests per case as of end 2021",
+       x= "Ratio of tests per case", caption="source: Our World in Data",
+       y= "count of countries") +
+  annotate("text", x=405, y=5, label="New Zealand", angle=90, hjust=0) +
+  annotate("text", x=480, y=5, label="Bhutan", angle=90, hjust=0) +
+  theme_minimal()
+  
+```
+The OWiD data can be combined with the other indicators (generate the 3 country ISO code and merge) to generate a similarity of testing as strategy metric. Also acknowledging that NZ's level of PCR testing would have been unsustainable with widespread covid as it did not have the sustainable lab resource. The outcome of the strategy permitted the ongoing strategy. There were not countries that achieved between 150 and 400 tests per case with "a bit of supression".
+
+```{r}
+ggplot(owsome, aes(x=ratio, y=cases_per_million)) + geom_point() +
+  labs(title="All available OWiD countries, testing and prevalence as at end 2021",
+       x= "Ratio of tests per case", caption="source: Our World in Data",
+       y= "cases per million population") +
+  annotate("text", x=405, y=10000, label="New Zealand", angle=90, hjust=0) +
+  annotate("text", x=480, y=10000, label="Bhutan", angle=90, hjust=0) +
+  theme_minimal()
+```
+
+Bhutan did even more testing than NZ over 2020/2021, and those two countries were in a different ballpark to everyone else. But I would suggest the further to the top left from NZ, the more different the testing strategy or the context of it.
+
+### Keeping covid at the border
+
+Without arguing how practical it was to keep covid at the border for various countries, we can assess how controlled borders were. The Oxford Coronavirus Government Response Tracker (OxCGRT) project calculate a Stringency Index, which is an overall measure of responses. There can be issues with interpreting subnational responses, as a countries highest response in a region is used for the country (particular affecting federalised countries with very different response regions such as Austria, Australia, and the United States), however one of the subindexes is international travel controls which is full state level. https://github.com/OxCGRT/covid-policy-tracker then in the data folder, timeseries subfolder, file c8ev_internationaltravel.csv. This file has 6 potential entries (5 codes + blank)
+
+* 0 - no restrictions
+* 1 - screening arrivals
+* 2 - quarantine arrivals from some or all regions
+* 3 - ban arrivals from some regions
+* 4 - ban on all regions or total border closure
+* Blank - no data
+
+So, as 2 includes both quarantine from some regions and all, a reasonable approach is the amount of days in 2020/2021 that a country was at 2,3, or 4. Remembering that there were a number of countries in the period that only had quarantine or bans from some regions because as NZ was covid free, if someone from NZ wanted to travel there (and could obtain a flight in the vastly reduced air travel industry) they could do so, but those kind of exceptions not captured in this did not create added threat when moving from a no covid to medium covid area.
+
+```{r}
+travel <- read.csv("c8ev_internationaltravel.csv") |> 
+  pivot_longer(X01Jan2020:X20Feb2023, names_to = "textDate", values_to = "code") |> 
+  mutate(textDate = gsub("^X","",textDate),
+         timeDate = dmy(textDate)) |> 
+  #write for percentage nonblank
+  filter(year(timeDate) %in% c(2020:2021) & !is.na(code) & 
+           jurisdiction == "NAT_TOTAL") |> 
+  summarise(.by=c(country_code,country_name),
+            percent = 100 * sum(code %in% 2:4) / n()) |> 
+  rename(iso3 = country_code,
+         travelCountry = country_name)
+
+```
+
+The Asia/Pacific region in general favoured "keep covid out" strategies (NZ, while up there, is only country number 14 in percentage of time at 2,3, or 4) so any counterfactual to NZ over this is likely in a very different part of the world.
+
+```{r}
+alldata <- bitsame |> 
+  inner_join(owsome, by="iso3") |> 
+  inner_join(travel, by="iso3")
+notNZ <- alldata |> filter(iso3 !="NZL") |> 
+  arrange(percent)
+excess_countf <- mean(notNZ$excess[1:10])
+isNZ <- alldata |> filter(iso3 =="NZL")
+ggplot(data=notNZ, aes(x=percent, y=ratio)) +
+  geom_point(colour="orange", shape=17) +
+  geom_point(data=isNZ, colour="black", shape=16) + theme_minimal() +
+  labs(title="travel restrictions and testing amoung 60 of the 80 similar countries",
+       x="Percent time with travel restrictions", y="Tests per case")
+
+```
+
+Among the 80 similar health system countries there are 60 with both Testing and travel restriction data. Among the 10 most different from NZ (below 50% travel restriction) the average excess mortality was about 16% (about 18% more than NZ, or over 25,000 extra dead)
+
+## Vaccination 
+
+While NZ can be described as keeping covid out until high vaccination, there is no country of comparable health system with no vaccination at all. Those that have very low levels of vaccination put the counterfactual deaths in the 40,000s. But this is too hard to write out all the detail over a weekend, so will wait for another time.
+
+
